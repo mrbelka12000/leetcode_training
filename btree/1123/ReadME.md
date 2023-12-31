@@ -45,9 +45,9 @@ Explanation: The deepest leaf node in the tree is 2, the lca of one node is itse
 
 Constraints:
 
-The number of nodes in the tree will be in the range [1, 1000].
-0 <= Node.val <= 1000
-The values of the nodes in the tree are unique.
+    The number of nodes in the tree will be in the range [1, 1000].
+    0 <= Node.val <= 1000
+    The values of the nodes in the tree are unique.
 
 
 Note: This question is the same as 865: https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
