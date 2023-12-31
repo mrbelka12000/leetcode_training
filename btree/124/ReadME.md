@@ -32,5 +32,5 @@ Explanation: The optimal path is 15 -> 20 -> 7 with a path sum of 15 + 20 + 7 = 
 
 Constraints:
 
-The number of nodes in the tree is in the range [1, 3 * 104].
--1000 <= Node.val <= 1000
+    The number of nodes in the tree is in the range [1, 3 * 104].
+    -1000 <= Node.val <= 1000
