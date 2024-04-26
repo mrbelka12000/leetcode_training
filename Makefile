@@ -3,3 +3,7 @@ push:
 	@git add .
 	@git commit -m  "$(MESSAGE)"
 	@git push
+
+
+generate:
+	@go run parser/main.go "$(TAG)" "$(TITLE)" "$(STATUS)"
