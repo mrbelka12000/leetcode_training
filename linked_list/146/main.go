@@ -14,11 +14,10 @@ func main() {
 }
 
 type LRUCache struct {
-	store []*Node
+	store map[int]*Node
 	head  *Node
 	tail  *Node
 	cp    int
-	curr  int
 }
 
 type Node struct {
@@ -30,9 +29,8 @@ type Node struct {
 
 func Constructor(capacity int) LRUCache {
 	return LRUCache{
-		store: make([]*Node, 100000),
-		//store: make(map[int]*Node),
-		cp: capacity,
+		store: make(map[int]*Node),
+		cp:    capacity,
 	}
 }
 
@@ -41,8 +39,8 @@ func (this *LRUCache) Get(key int) int {
 	// 	Print(this.head)
 	// }()
 
-	node := this.store[key]
-	if node == nil {
+	node, ok := this.store[key]
+	if !ok {
 		return -1
 	}
 
@@ -62,7 +60,6 @@ func (this *LRUCache) Get(key int) int {
 	node.Next.Prev = node.Prev
 	node.Next = nil
 	node.Prev = this.tail
-
 	this.tail.Next = node
 	this.tail = node
 
@@ -83,12 +80,10 @@ func (this *LRUCache) Put(key int, value int) {
 
 	// defer Print(this.head)
 
-	this.curr++
 	var node *Node
-	if v := this.store[key]; v == nil {
-		if this.curr >= this.cp {
-			this.store[this.head.Key] = nil
-			//delete(this.store, this.head.Key)
+	if v, ok := this.store[key]; !ok {
+		if len(this.store) == this.cp {
+			delete(this.store, this.head.Key)
 			this.head = this.head.Next
 		}
 		node = &Node{
@@ -113,7 +108,6 @@ func (this *LRUCache) Put(key int, value int) {
 	if node.Prev != nil {
 		node.Prev.Next = node.Next
 	}
-
 	if node.Next != nil {
 		node.Next.Prev = node.Prev
 	}
@@ -121,7 +115,6 @@ func (this *LRUCache) Put(key int, value int) {
 	if this.head == node {
 		this.head = this.head.Next
 	}
-
 	node.Next = nil
 	node.Prev = this.tail
 	this.tail.Next = node
