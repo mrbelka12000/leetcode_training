@@ -1,7 +1,6 @@
 package main
 
 import (
-	"container/heap"
 	"fmt"
 	"math"
 )
@@ -66,14 +65,16 @@ func (this *Graph) AddEdge(edge []int) {
 
 func (this *Graph) ShortestPath(node1 int, node2 int) int {
 	calc := this.getCalc()
-	p := PQ{}
-	heap.Init(&p)
+	//p := PQ{}
+	//heap.Init(&p)
 	calc[node1] = 0
 	// p.Push([2]int{node1, 0})
 
-	heap.Push(&p, [2]int{node1, 0})
-	for p.Len() > 0 {
-		item := heap.Pop(&p).([2]int)
+	//heap.Push(&p, [2]int{node1, 0})
+	q := [][]int{{node1, 0}}
+	for len(q) > 0 {
+		item := q[0]
+		q = q[1:]
 
 		if item[1] > calc[item[0]] {
 			continue
@@ -87,8 +88,8 @@ func (this *Graph) ShortestPath(node1 int, node2 int) int {
 			if calc[k] > calc[item[0]]+v {
 				calc[k] = calc[item[0]] + v
 				// p.Push([2]int{k, calc[k]})
-				heap.Push(&p, [2]int{k, calc[k]})
-
+				//heap.Push(&p, [2]int{k, calc[k]})
+				q = append(q, []int{k, calc[k]})
 			}
 		}
 	}
