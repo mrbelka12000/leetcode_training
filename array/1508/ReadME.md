@@ -11,7 +11,6 @@ Return the sum of the numbers from index left to index right (indexed from 1), i
 
 
 
-
 ### Example 1:
 
 
