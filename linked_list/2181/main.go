@@ -10,35 +10,19 @@ type ListNode struct {
 }
 
 func mergeNodes(head *ListNode) *ListNode {
-
-	var check bool
-	var arr []int
-	var num int
-	for head != nil {
-		if head.Val == 0 {
-			if check {
-				arr = append(arr, num)
-				num = 0
-			} else {
-				check = true
-			}
-		}
-		if check {
-			num += head.Val
-		}
-		head = head.Next
-	}
-
 	result := &ListNode{}
 	tmp := result
+	curr := head
 
-	for _, v := range arr {
-		result.Next = &ListNode{
-			Val: v,
+	for curr != nil && curr.Next != nil {
+		if curr.Val == 0 {
+			tmp.Next = &ListNode{}
+			tmp = tmp.Next
+		} else {
+			tmp.Val += curr.Val
 		}
-
-		result = result.Next
+		curr = curr.Next
 	}
 
-	return tmp.Next
+	return result.Next
 }
