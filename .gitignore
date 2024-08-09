@@ -1,5 +1,5 @@
 dsa
 .idea
-plotter
-parser
+utils
 .DS_Store
+problems.json

@@ -1,9 +1,8 @@
 push:
-	@go run plotter/main.go
+	@go run utils/parser/problems/main.go
+	@go run utils/plotter/main.go
+	@go run utils/readme_builder/main.go
 	@git add .
 	@git commit -m  "$(MESSAGE)"
 	@git push
 
-
-generate:
-	@go run parser/main.go "$(TAG)" "$(TITLE)" "$(STATUS)"
