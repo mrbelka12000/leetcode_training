@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(416):
+### List of problems(417):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -67,6 +67,7 @@
 |129 | Sum Root to Leaf Numbers |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | [Code](btree/129/main.go)|
 |130 | Surrounded Regions |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/surrounded-regions/description/) | [Code](matrix/130/main.go)|
 |131 | Palindrome Partitioning |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/palindrome-partitioning/description/) | [Code](backtracking/131/main.go)|
+|138 | Copy List with Random Pointer |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Code](linked_list/138/main.go)|
 |139 | Word Break |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/word-break/description/) | [Code](dp/139/main.go)|
 |140 | Word Break II |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/word-break-ii/description/) | [Code](hash_table/140/main.go)|
 |141 | Linked List Cycle |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/linked-list-cycle/description/) | [Code](linked_list/141/main.go)|
