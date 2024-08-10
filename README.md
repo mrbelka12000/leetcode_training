@@ -1,6 +1,6 @@
 # leetcode_training
 
-<a href="https://www.leetcode.com/mrbelka12000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrbelka12000" height="30" width="40" /></a>
+![LeetCode Stats](https://leetcard.jacoblin.cool/mrbelka12000?theme=nord&font=Nunito%20Sans&ext=heatmap&cache=0)
 
 ### Collection of leetcode problems solved and noted by me (list of problems not full)
 
