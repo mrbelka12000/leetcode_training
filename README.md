@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(420):
+### List of problems(421):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -109,6 +109,7 @@
 |284 | Peeking Iterator |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/peeking-iterator/description/) | [Code](design/284/main.go)|
 |286 | Walls and Gates |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/walls-and-gates/description/) | [Code](matrix/286/main.go)|
 |290 | Word Pattern |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/word-pattern/description/) | [Code](hash_table/290/main.go)|
+|297 | Serialize and Deserialize Binary Tree |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [Code](btree/297/main.go)|
 |300 | Longest Increasing Subsequence |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Code](dp/300/main.go)|
 |307 | Range Sum Query - Mutable |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/range-sum-query---mutable/description/) | [Code](fenwick_tree/307/main.go)|
 |308 | Range Sum Query 2D - Mutable |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/range-sum-query-2d---mutable/description/) | [Code](prefix_sum/308/main.go)|
