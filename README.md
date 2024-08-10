@@ -1,6 +1,6 @@
 # leetcode_training
 
-## [LC profile](https://leetcode.com/u/mrbelka12000/)
+<a href="https://www.leetcode.com/mrbelka12000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrbelka12000" height="30" width="40" /></a>
 
 ### Collection of leetcode problems solved and noted by me (list of problems not full)
 
