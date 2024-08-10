@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(413):
+### List of problems(414):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -45,6 +45,7 @@
 |72 | Edit Distance |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/edit-distance/description/) | [Code](dp/72/main.go)|
 |76 | Minimum Window Substring |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/minimum-window-substring/description/) | [Code](sliding_window/76/main.go)|
 |77 | Combinations |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/combinations/description/) | [Code](backtracking/77/main.go)|
+|79 | Word Search |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/word-search/description/) | [Code](backtracking/79/main.go)|
 |81 | Search in Rotated Sorted Array II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | [Code](array/81/main.go)|
 |82 | Remove Duplicates from Sorted List II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Code](linked_list/82/main.go)|
 |84 | Largest Rectangle in Histogram |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [Code](monotonic_stack/84/main.go)|
