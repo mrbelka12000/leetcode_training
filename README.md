@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(418):
+### List of problems(419):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -23,6 +23,7 @@
 |24 | Swap Nodes in Pairs |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Code](linked_list/24/main.go)|
 |25 | Reverse Nodes in k-Group |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Code](linked_list/25/main.go)|
 |30 | Substring with Concatenation of All Words |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [Code](sliding_window/30/main.go)|
+|31 | Next Permutation |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/next-permutation/description/) | [Code](math/31/main.go)|
 |32 | Longest Valid Parentheses |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/longest-valid-parentheses/description/) | [Code](stack/32/main.go)|
 |37 | Sudoku Solver |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/sudoku-solver/description/) | [Code](backtracking/37/main.go)|
 |39 | Combination Sum |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/combination-sum/description/) | [Code](backtracking/39/main.go)|
