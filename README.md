@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems:
+### List of problems(413):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
