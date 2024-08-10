@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(415):
+### List of problems(416):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -190,6 +190,7 @@
 |743 | Network Delay Time |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/network-delay-time/description/) | [Code](graph/743/main.go)|
 |745 | Prefix and Suffix Search |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/prefix-and-suffix-search/description/) | [Code](trie/745/main.go)|
 |759 | Employee Free Time |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/employee-free-time/description/) | [Code](stack/759/main.go)|
+|763 | Partition Labels |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/partition-labels/description/) | [Code](greedy/763/main.go)|
 |767 | Reorganize String |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/reorganize-string/description/) | [Code](hash_table/767/main.go)|
 |773 | Sliding Puzzle |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/sliding-puzzle/description/) | [Code](backtracking/773/main.go)|
 |784 | Letter Case Permutation |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/letter-case-permutation/description/) | [Code](backtracking/784/main.go)|
