@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(421):
+### List of problems(422):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -109,6 +109,7 @@
 |284 | Peeking Iterator |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/peeking-iterator/description/) | [Code](design/284/main.go)|
 |286 | Walls and Gates |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/walls-and-gates/description/) | [Code](matrix/286/main.go)|
 |290 | Word Pattern |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/word-pattern/description/) | [Code](hash_table/290/main.go)|
+|295 | Find Median from Data Stream |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Code](heap/295/main.go)|
 |297 | Serialize and Deserialize Binary Tree |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [Code](btree/297/main.go)|
 |300 | Longest Increasing Subsequence |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Code](dp/300/main.go)|
 |307 | Range Sum Query - Mutable |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/range-sum-query---mutable/description/) | [Code](fenwick_tree/307/main.go)|
