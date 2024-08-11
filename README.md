@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(422):
+### List of problems(423):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -192,6 +192,7 @@
 |725 | Split Linked List in Parts |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/split-linked-list-in-parts/description/) | [Code](linked_list/725/main.go)|
 |728 | Self Dividing Numbers |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/self-dividing-numbers/description/) | [Code](math/728/main.go)|
 |739 | Daily Temperatures |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/daily-temperatures/description/) | [Code](monotonic_stack/739/main.go)|
+|740 | Delete and Earn |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/delete-and-earn/description/) | [Code](dp/740/main.go)|
 |741 | Cherry Pickup |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/cherry-pickup/description/) | [Code](dp/741/main.go)|
 |743 | Network Delay Time |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/network-delay-time/description/) | [Code](graph/743/main.go)|
 |745 | Prefix and Suffix Search |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/prefix-and-suffix-search/description/) | [Code](trie/745/main.go)|
