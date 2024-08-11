@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(423):
+### List of problems(424):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -435,3 +435,4 @@
 |3170 | Lexicographically Minimum String After Removing Stars |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/description/) | [Code](heap/3170/main.go)|
 |3180 | Maximum Total Reward Using Operations I |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/maximum-total-reward-using-operations-i/description/) | [Code](dp/3180/main.go)|
 |3233 | Find the Count of Numbers Which Are Not Special |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/description/) | [Code](math/3233/main.go)|
+|3248 | Snake in Matrix |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/snake-in-matrix/description/) | [Code](matrix/3248/main.go)|
