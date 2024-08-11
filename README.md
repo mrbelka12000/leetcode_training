@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(425):
+### List of problems(426):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -437,3 +437,4 @@
 |3233 | Find the Count of Numbers Which Are Not Special |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/description/) | [Code](math/3233/main.go)|
 |3248 | Snake in Matrix |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/snake-in-matrix/description/) | [Code](matrix/3248/main.go)|
 |3249 | Count the Number of Good Nodes |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-the-number-of-good-nodes/description/) | [Code](btree/3249/main.go)|
+|3250 | Find the Count of Monotonic Pairs I |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/description/) | [Code](dp/3250/main.go)|
