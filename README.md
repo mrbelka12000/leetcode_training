@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(426):
+### List of problems(427):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -349,6 +349,7 @@
 |1740 | Find Distance in a Binary Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-distance-in-a-binary-tree/description/) | [Code](btree/1740/main.go)|
 |1756 | Design Most Recently Used Queue |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/design-most-recently-used-queue/description/) | [Code](design/1756/main.go)|
 |1762 | Buildings With an Ocean View |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/buildings-with-an-ocean-view/description/) | [Code](monotonic_stack/1762/main.go)|
+|1770 | Maximum Score from Performing Multiplication Operations |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/description/) | [Code](dp/1770/main.go)|
 |1797 | Design Authentication Manager |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/design-authentication-manager/description/) | [Code](design/1797/main.go)|
 |1800 | Maximum Ascending Subarray Sum |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) | [Code](array/1800/main.go)|
 |1823 | Find the Winner of the Circular Game |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/) | [Code](array/1823/main.go)|
