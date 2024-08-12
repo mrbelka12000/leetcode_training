@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(428):
+### List of problems(429):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -93,6 +93,7 @@
 |216 | Combination Sum III |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/combination-sum-iii/description/) | [Code](backtracking/216/main.go)|
 |224 | Basic Calculator |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/basic-calculator/description/) | [Code](stack/224/main.go)|
 |227 | Basic Calculator II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/basic-calculator-ii/description/) | [Code](stack/227/main.go)|
+|228 | Summary Ranges |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/summary-ranges/description/) | [Code](array/228/main.go)|
 |229 | Majority Element II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/majority-element-ii/description/) | [Code](hash_table/229/main.go)|
 |230 | Kth Smallest Element in a BST |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [Code](btree/230/main.go)|
 |235 | Lowest Common Ancestor of a Binary Search Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Code](btree/235/main.go)|
