@@ -39,4 +39,3 @@ func maximumScore(nums []int, multipliers []int) int {
 
 	return runner(0, 0)
 }
-``

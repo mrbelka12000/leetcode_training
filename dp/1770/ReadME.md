@@ -11,7 +11,6 @@ You begin with a score of 0. You want to perform exactly m operations. On the it
 
 
 
-
     Choose one integer x from either the start or the end of the array nums.
 
     Add multipliers[i] * x to your score.
