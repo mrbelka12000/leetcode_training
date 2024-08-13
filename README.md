@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(431):
+### List of problems(432):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -143,6 +143,7 @@
 |416 | Partition Equal Subset Sum |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Code](dp/416/main.go)|
 |424 | Longest Repeating Character Replacement |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Code](sliding_window/424/main.go)|
 |431 | Encode N-ary Tree to Binary Tree |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/) | [Code](design/431/main.go)|
+|433 | Minimum Genetic Mutation |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/minimum-genetic-mutation/description/) | [Code](hash_table/433/main.go)|
 |437 | Path Sum III |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/path-sum-iii/description/) | [Code](btree/437/main.go)|
 |445 | Add Two Numbers II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/add-two-numbers-ii/description/) | [Code](linked_list/445/main.go)|
 |446 | Arithmetic Slices II - Subsequence |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/arithmetic-slices-ii---subsequence/description/) | [Code](dp/446/main.go)|
