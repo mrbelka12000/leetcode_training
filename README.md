@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(433):
+### List of problems(434):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -154,6 +154,7 @@
 |491 | Non-decreasing Subsequences |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/non-decreasing-subsequences/description/) | [Code](backtracking/491/main.go)|
 |494 | Target Sum |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/target-sum/description/) | [Code](backtracking/494/main.go)|
 |496 | Next Greater Element I |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/next-greater-element-i/description/) | [Code](monotonic_stack/496/main.go)|
+|502 | IPO |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/ipo/description/) | [Code](greedy/502/main.go)|
 |503 | Next Greater Element II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/next-greater-element-ii/description/) | [Code](monotonic_stack/503/main.go)|
 |513 | Find Bottom Left Tree Value |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | [Code](btree/513/main.go)|
 |518 | Coin Change II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/coin-change-ii/description/) | [Code](dp/518/main.go)|
