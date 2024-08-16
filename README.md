@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(435):
+### List of problems(436):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -71,6 +71,7 @@
 |131 | Palindrome Partitioning |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/palindrome-partitioning/description/) | [Code](backtracking/131/main.go)|
 |133 | Clone Graph |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/clone-graph/description/) | [Code](graph/133/main.go)|
 |134 | Gas Station |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/gas-station/description/) | [Code](greedy/134/main.go)|
+|135 | Candy |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/candy/description/) | [Code](greedy/135/main.go)|
 |138 | Copy List with Random Pointer |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Code](linked_list/138/main.go)|
 |139 | Word Break |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/word-break/description/) | [Code](dp/139/main.go)|
 |140 | Word Break II |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/word-break-ii/description/) | [Code](hash_table/140/main.go)|
