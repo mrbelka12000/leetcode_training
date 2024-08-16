@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(434):
+### List of problems(435):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -83,6 +83,7 @@
 |159 | Longest Substring with At Most Two Distinct Characters |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | [Code](sliding_window/159/main.go)|
 |160 | Intersection of Two Linked Lists |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Code](linked_list/160/main.go)|
 |164 | Maximum Gap |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/maximum-gap/description/) | [Code](heap/164/main.go)|
+|172 | Factorial Trailing Zeroes |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/factorial-trailing-zeroes/description/) | [Code](math/172/main.go)|
 |173 | Binary Search Tree Iterator |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/binary-search-tree-iterator/description/) | [Code](btree/173/main.go)|
 |187 | Repeated DNA Sequences |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/repeated-dna-sequences/description/) | [Code](sliding_window/187/main.go)|
 |204 | Count Primes |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-primes/description/) | [Code](array/204/main.go)|
