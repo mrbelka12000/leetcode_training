@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(436):
+### List of problems(437):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -296,6 +296,7 @@
 |1289 | Minimum Falling Path Sum II |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/minimum-falling-path-sum-ii/description/) | [Code](dp/1289/main.go)|
 |1290 | Convert Binary Number in a Linked List to Integer |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) | [Code](linked_list/1290/main.go)|
 |1291 | Sequential Digits |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/sequential-digits/description/) | [Code](string/1291/main.go)|
+|1293 | Shortest Path in a Grid with Obstacles Elimination |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/) | [Code](graph/1293/main.go)|
 |1296 | Divide Array in Sets of K Consecutive Numbers |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/) | [Code](array/1296/main.go)|
 |1302 | Deepest Leaves Sum |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/deepest-leaves-sum/description/) | [Code](btree/1302/main.go)|
 |1305 | All Elements in Two Binary Search Trees |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/) | [Code](btree/1305/main.go)|
