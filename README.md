@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(437):
+### List of problems(438):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -186,6 +186,7 @@
 |665 | Non-decreasing Array |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/non-decreasing-array/description/) | [Code](array/665/main.go)|
 |676 | Implement Magic Dictionary |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/implement-magic-dictionary/description/) | [Code](design/676/main.go)|
 |677 | Map Sum Pairs |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/map-sum-pairs/description/) | [Code](design/677/main.go)|
+|678 | Valid Parenthesis String |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/valid-parenthesis-string/description/) | [Code](dp/678/main.go)|
 |680 | Valid Palindrome II |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Code](greedy/680/main.go)|
 |684 | Redundant Connection |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/redundant-connection/description/) | [Code](union_find/684/main.go)|
 |687 | Longest Univalue Path |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/longest-univalue-path/description/) | [Code](btree/687/main.go)|
