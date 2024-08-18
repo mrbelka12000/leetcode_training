@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(439):
+### List of problems(440):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -253,6 +253,7 @@
 |983 | Minimum Cost For Tickets |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/minimum-cost-for-tickets/description/) | [Code](dp/983/main.go)|
 |988 | Smallest String Starting From Leaf |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/) | [Code](btree/988/main.go)|
 |993 | Cousins in Binary Tree |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/cousins-in-binary-tree/description/) | [Code](btree/993/main.go)|
+|1002 | Find Common Characters |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/find-common-characters/description/) | [Code](hash_table/1002/main.go)|
 |1008 | Construct Binary Search Tree from Preorder Traversal |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/) | [Code](btree/1008/main.go)|
 |1010 | Pairs of Songs With Total Durations Divisible by 60 |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/description/) | [Code](array/1010/main.go)|
 |1011 | Capacity To Ship Packages Within D Days |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) | [Code](binarysearch/1011/main.go)|
