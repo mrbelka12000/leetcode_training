@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(441):
+### List of problems(442):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -110,6 +110,7 @@
 |256 | Paint House |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/paint-house/description/) | [Code](dp/256/main.go)|
 |257 | Binary Tree Paths |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/binary-tree-paths/description/) | [Code](btree/257/main.go)|
 |261 | Graph Valid Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/graph-valid-tree/description/) | [Code](union_find/261/main.go)|
+|271 | Encode and Decode Strings |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/encode-and-decode-strings/description/) | [Code](string/271/main.go)|
 |274 | H-Index |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/h-index/description/) | [Code](array/274/main.go)|
 |282 | Expression Add Operators |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/expression-add-operators/description/) | [Code](backtracking/282/main.go)|
 |284 | Peeking Iterator |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/peeking-iterator/description/) | [Code](design/284/main.go)|
