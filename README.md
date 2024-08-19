@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(442):
+### List of problems(443):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -225,6 +225,7 @@
 |826 | Most Profit Assigning Work |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/most-profit-assigning-work/description/) | [Code](greedy/826/main.go)|
 |834 | Sum of Distances in Tree |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/sum-of-distances-in-tree/description/) | [Code](graph/834/main.go)|
 |840 | Magic Squares In Grid |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/magic-squares-in-grid/description/) | [Code](matrix/840/main.go)|
+|846 | Hand of Straights |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/hand-of-straights/description/) | [Code](greedy/846/main.go)|
 |848 | Shifting Letters |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/shifting-letters/description/) | [Code](array/848/main.go)|
 |853 | Car Fleet |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/car-fleet/description/) | [Code](monotonic_stack/853/main.go)|
 |863 | All Nodes Distance K in Binary Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) | [Code](btree/863/main.go)|
