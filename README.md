@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(443):
+### List of problems(444):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -293,6 +293,7 @@
 |1254 | Number of Closed Islands |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/number-of-closed-islands/description/) | [Code](matrix/1254/main.go)|
 |1255 | Maximum Score Words Formed by Letters |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/) | [Code](backtracking/1255/main.go)|
 |1258 | Synonymous Sentences |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/synonymous-sentences/description/) | [Code](backtracking/1258/main.go)|
+|1265 | Print Immutable Linked List in Reverse |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/description/) | [Code](linked_list/1265/main.go)|
 |1267 | Count Servers that Communicate |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-servers-that-communicate/description/) | [Code](graph/1267/main.go)|
 |1277 | Count Square Submatrices with All Ones |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/) | [Code](dp/1277/main.go)|
 |1283 | Find the Smallest Divisor Given a Threshold |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/) | [Code](array/1283/main.go)|
