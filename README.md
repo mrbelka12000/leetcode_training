@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(446):
+### List of problems(447):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -448,6 +448,7 @@
 |3028 | Ant on the Boundary |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/ant-on-the-boundary/description/) | [Code](prefix_sum/3028/main.go)|
 |3032 | Count Numbers With Unique Digits II |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/count-numbers-with-unique-digits-ii/description/) | [Code](dp/3032/main.go)|
 |3063 | Linked List Frequency |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/linked-list-frequency/description/) | [Code](linked_list/3063/main.go)|
+|3105 | Longest Strictly Increasing or Strictly Decreasing Subarray |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/) | [Code](monotonic_stack/3105/main.go)|
 |3110 | Score of a String |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/score-of-a-string/description/) | [Code](string/3110/main.go)|
 |3131 | Find the Integer Added to Array I |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/find-the-integer-added-to-array-i/description/) | [Code](array/3131/main.go)|
 |3163 | String Compression III |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/string-compression-iii/description/) | [Code](string/3163/main.go)|
