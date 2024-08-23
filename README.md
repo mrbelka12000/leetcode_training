@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(447):
+### List of problems(448):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -270,6 +270,7 @@
 |1080 | Insufficient Nodes in Root to Leaf Paths |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/description/) | [Code](btree/1080/main.go)|
 |1081 | Smallest Subsequence of Distinct Characters |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/) | [Code](greedy/1081/main.go)|
 |1091 | Shortest Path in Binary Matrix |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/) | [Code](matrix/1091/main.go)|
+|1095 | Find in Mountain Array |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/find-in-mountain-array/description/) | [Code](binarysearch/1095/main.go)|
 |1100 | Find K-Length Substrings With No Repeated Characters |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/description/) | [Code](sliding_window/1100/main.go)|
 |1101 | The Earliest Moment When Everyone Become Friends |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/) | [Code](union_find/1101/main.go)|
 |1110 | Delete Nodes And Return Forest |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) | [Code](btree/1110/main.go)|
