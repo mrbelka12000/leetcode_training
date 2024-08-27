@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	fmt.Println(isStrobogrammatic("69"))
+	fmt.Println(isStrobogrammatic("88"))
 }
 
 func isStrobogrammatic(num string) bool {
