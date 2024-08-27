@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(448):
+### List of problems(449):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -105,6 +105,7 @@
 |237 | Delete Node in a Linked List |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Code](linked_list/237/main.go)|
 |239 | Sliding Window Maximum |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/sliding-window-maximum/description/) | [Code](array/239/main.go)|
 |240 | Search a 2D Matrix II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | [Code](binarysearch/240/main.go)|
+|246 | Strobogrammatic Number |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/strobogrammatic-number/description/) | [Code](string/246/main.go)|
 |250 | Count Univalue Subtrees |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-univalue-subtrees/description/) | [Code](btree/250/main.go)|
 |252 | Meeting Rooms |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/meeting-rooms/description/) | [Code](array/252/main.go)|
 |253 | Meeting Rooms II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/meeting-rooms-ii/description/) | [Code](array/253/main.go)|
