@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(450):
+### List of problems(451):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -447,6 +447,7 @@
 |2950 | Number of Divisible Substrings |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/number-of-divisible-substrings/description/) | [Code](hash_table/2950/main.go)|
 |2974 | Minimum Number Game |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/minimum-number-game/description/) | [Code](heap/2974/main.go)|
 |2992 | Number of Self-Divisible Permutations |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/number-of-self-divisible-permutations/description/) | [Code](backtracking/2992/main.go)|
+|3004 | Maximum Subtree of the Same Color |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/maximum-subtree-of-the-same-color/description/) | [Code](graph/3004/main.go)|
 |3016 | Minimum Number of Pushes to Type Word II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/) | [Code](greedy/3016/main.go)|
 |3028 | Ant on the Boundary |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/ant-on-the-boundary/description/) | [Code](prefix_sum/3028/main.go)|
 |3032 | Count Numbers With Unique Digits II |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/count-numbers-with-unique-digits-ii/description/) | [Code](dp/3032/main.go)|
