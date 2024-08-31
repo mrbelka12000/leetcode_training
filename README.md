@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(453):
+### List of problems(454):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -135,6 +135,7 @@
 |355 | Design Twitter |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/design-twitter/description/) | [Code](design/355/main.go)|
 |359 | Logger Rate Limiter |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/logger-rate-limiter/description/) | [Code](design/359/main.go)|
 |368 | Largest Divisible Subset |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/largest-divisible-subset/description/) | [Code](dp/368/main.go)|
+|373 | Find K Pairs with Smallest Sums |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) | [Code](heap/373/main.go)|
 |377 | Combination Sum IV |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/combination-sum-iv/description/) | [Code](dp/377/main.go)|
 |378 | Kth Smallest Element in a Sorted Matrix |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Code](array/378/main.go)|
 |380 | Insert Delete GetRandom O(1) |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/insert-delete-getrandom-o(1)/description/) | [Code](design/380/main.go)|
