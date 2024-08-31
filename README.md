@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(451):
+### List of problems(452):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -419,6 +419,7 @@
 |2340 | Minimum Adjacent Swaps to Make a Valid Array |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/description/) | [Code](greedy/2340/main.go)|
 |2342 | Max Sum of a Pair With Equal Sum of Digits |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description/) | [Code](heap/2342/main.go)|
 |2360 | Longest Cycle in a Graph |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/longest-cycle-in-a-graph/description/) | [Code](graph/2360/main.go)|
+|2361 | Minimum Costs Using the Train Line |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/minimum-costs-using-the-train-line/description/) | [Code](dp/2361/main.go)|
 |2365 | Task Scheduler II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/task-scheduler-ii/description/) | [Code](array/2365/main.go)|
 |2368 | Reachable Nodes With Restrictions |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/reachable-nodes-with-restrictions/description/) | [Code](graph/2368/main.go)|
 |2387 | Median of a Row Wise Sorted Matrix |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/description/) | [Code](matrix/2387/main.go)|
