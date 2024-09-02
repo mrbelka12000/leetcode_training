@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(455):
+### List of problems(456):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -380,6 +380,7 @@
 |1852 | Distinct Numbers in Each Subarray |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/distinct-numbers-in-each-subarray/description/) | [Code](sliding_window/1852/main.go)|
 |1863 | Sum of All Subset XOR Totals |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/) | [Code](backtracking/1863/main.go)|
 |1880 | Check if Word Equals Summation of Two Words |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description/) | [Code](string/1880/main.go)|
+|1894 | Find the Student that Will Replace the Chalk |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/) | [Code](array/1894/main.go)|
 |1905 | Count Sub Islands |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-sub-islands/description/) | [Code](matrix/1905/main.go)|
 |1910 | Remove All Occurrences of a Substring |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/) | [Code](string/1910/main.go)|
 |1940 | Longest Common Subsequence Between Sorted Arrays |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/description/) | [Code](array/1940/main.go)|
