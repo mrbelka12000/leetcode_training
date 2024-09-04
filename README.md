@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(457):
+### List of problems(458):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -235,6 +235,7 @@
 |853 | Car Fleet |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/car-fleet/description/) | [Code](monotonic_stack/853/main.go)|
 |863 | All Nodes Distance K in Binary Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) | [Code](btree/863/main.go)|
 |865 | Smallest Subtree with all the Deepest Nodes |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) | [Code](btree/865/main.go)|
+|874 | Walking Robot Simulation |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/walking-robot-simulation/description/) | [Code](hash_table/874/main.go)|
 |875 | Koko Eating Bananas |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/koko-eating-bananas/description/) | [Code](binarysearch/875/main.go)|
 |881 | Boats to Save People |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/boats-to-save-people/description/) | [Code](greedy/881/main.go)|
 |897 | Increasing Order Search Tree |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/increasing-order-search-tree/description/) | [Code](btree/897/main.go)|
