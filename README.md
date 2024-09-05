@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(458):
+### List of problems(459):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -394,6 +394,7 @@
 |1980 | Find Unique Binary String |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-unique-binary-string/description/) | [Code](backtracking/1980/main.go)|
 |2016 | Maximum Difference Between Increasing Elements |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/) | [Code](dp/2016/main.go)|
 |2024 | Maximize the Confusion of an Exam |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/description/) | [Code](sliding_window/2024/main.go)|
+|2028 | Find Missing Observations |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-missing-observations/description/) | [Code](math/2028/main.go)|
 |2044 | Count Number of Maximum Bitwise-OR Subsets |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/) | [Code](bit_manipulation/2044/main.go)|
 |2050 | Parallel Courses III |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/parallel-courses-iii/description/) | [Code](topological_sort/2050/main.go)|
 |2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/) | [Code](linked_list/2058/main.go)|
