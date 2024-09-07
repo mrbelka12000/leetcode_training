@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(459):
+### List of problems(460):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -56,6 +56,7 @@
 |102 | Binary Tree Level Order Traversal |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Code](btree/102/main.go)|
 |103 | Binary Tree Zigzag Level Order Traversal |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Code](btree/103/main.go)|
 |105 | Construct Binary Tree from Preorder and Inorder Traversal |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | [Code](btree/105/main.go)|
+|106 | Construct Binary Tree from Inorder and Postorder Traversal |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | [Code](btree/106/main.go)|
 |107 | Binary Tree Level Order Traversal II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [Code](btree/107/main.go)|
 |108 | Convert Sorted Array to Binary Search Tree |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | [Code](btree/108/main.go)|
 |110 | Balanced Binary Tree |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/balanced-binary-tree/description/) | [Code](btree/110/main.go)|
