@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(461):
+### List of problems(462):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -260,6 +260,7 @@
 |980 | Unique Paths III |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/unique-paths-iii/description/) | [Code](backtracking/980/main.go)|
 |981 | Time Based Key-Value Store |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/time-based-key-value-store/description/) | [Code](design/981/main.go)|
 |983 | Minimum Cost For Tickets |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/minimum-cost-for-tickets/description/) | [Code](dp/983/main.go)|
+|987 | Vertical Order Traversal of a Binary Tree |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/) | [Code](btree/987/main.go)|
 |988 | Smallest String Starting From Leaf |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/) | [Code](btree/988/main.go)|
 |993 | Cousins in Binary Tree |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/cousins-in-binary-tree/description/) | [Code](btree/993/main.go)|
 |1002 | Find Common Characters |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/find-common-characters/description/) | [Code](hash_table/1002/main.go)|
