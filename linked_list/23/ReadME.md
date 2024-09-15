@@ -31,7 +31,7 @@ merging them into one sorted list:
 
 Input: lists = []
 
-Output: []
+Output: [] 
 
 ### Example 3:
 

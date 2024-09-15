@@ -1,7 +1,5 @@
 package main
 
-import "sort"
-
 func main() {
 
 }
@@ -12,46 +10,52 @@ type ListNode struct {
 }
 
 func mergeKLists(lists []*ListNode) *ListNode {
-	if len(lists) == 0 {
-		return nil
-	}
-	result := &ListNode{
-		Next: &ListNode{},
-	}
-	var nums []int
+	n := len(lists)
 
-	for {
-
-		var check int
-
-		for i := 0; i < len(lists); i++ {
-			if lists[i] == nil {
-				check++
-				continue
-			}
-			nums = append(nums, lists[i].Val)
-			lists[i] = lists[i].Next
-		}
-
-		if check == len(lists) {
-			break
-		}
-	}
-	if len(nums) == 0 {
+	if n == 0 {
 		return nil
 	}
 
-	sort.Ints(nums)
-
-	tmp := result
-
-	for _, v := range nums {
-		curr := &ListNode{
-			Val: v,
-		}
-		result.Next = curr
-		result = result.Next
+	if n == 1 {
+		return lists[0]
 	}
 
-	return tmp.Next
+	firstHalf := mergeKLists(lists[:n/2])
+	secondHalf := mergeKLists(lists[n/2:])
+
+	return sort(firstHalf, secondHalf)
+}
+
+func sort(l, r *ListNode) *ListNode {
+	if l == nil && r == nil {
+		return nil
+	}
+
+	if r == nil {
+		return l
+	}
+
+	if l == nil {
+		return r
+	}
+
+	if l.Val <= r.Val {
+		prev := l
+		for l.Next != nil && l.Next.Val < r.Val {
+			l = l.Next
+		}
+		lNext := l.Next
+		l.Next = r
+		r.Next = sort(lNext, r.Next)
+		return prev
+	}
+
+	prev := r
+	for r.Next != nil && r.Next.Val < l.Val {
+		r = r.Next
+	}
+	rNext := r.Next
+	r.Next = l
+	l.Next = sort(l.Next, rNext)
+	return prev
 }
