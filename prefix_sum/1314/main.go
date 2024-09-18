@@ -2,6 +2,8 @@ package main
 
 import (
 	"fmt"
+	"math/rand"
+	"time"
 )
 
 func main() {
@@ -58,6 +60,7 @@ func norm(i, m int) int {
 	if i >= m {
 		return m - 1
 	}
+	rand.Seed(time.Now().UnixMilli())
 
 	return i
 }

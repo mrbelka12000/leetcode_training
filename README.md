@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(471):
+### List of problems(472):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -231,6 +231,7 @@
 |802 | Find Eventual Safe States |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-eventual-safe-states/description/) | [Code](topological_sort/802/main.go)|
 |814 | Binary Tree Pruning |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/binary-tree-pruning/description/) | [Code](btree/814/main.go)|
 |815 | Bus Routes |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/bus-routes/description/) | [Code](hash_table/815/main.go)|
+|817 | Linked List Components |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/linked-list-components/description/) | [Code](linked_list/817/main.go)|
 |818 | Race Car |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/race-car/description/) | [Code](btree/818/main.go)|
 |826 | Most Profit Assigning Work |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/most-profit-assigning-work/description/) | [Code](greedy/826/main.go)|
 |834 | Sum of Distances in Tree |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/sum-of-distances-in-tree/description/) | [Code](graph/834/main.go)|
