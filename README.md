@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(473):
+### List of problems(474):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -408,6 +408,7 @@
 |2024 | Maximize the Confusion of an Exam |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/description/) | [Code](sliding_window/2024/main.go)|
 |2028 | Find Missing Observations |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-missing-observations/description/) | [Code](math/2028/main.go)|
 |2044 | Count Number of Maximum Bitwise-OR Subsets |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/) | [Code](bit_manipulation/2044/main.go)|
+|2046 | Sort Linked List Already Sorted Using Absolute Values |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/description/) | [Code](linked_list/2046/main.go)|
 |2050 | Parallel Courses III |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/parallel-courses-iii/description/) | [Code](topological_sort/2050/main.go)|
 |2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/) | [Code](linked_list/2058/main.go)|
 |2083 | Substrings That Begin and End With the Same Letter |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/description/) | [Code](hash_table/2083/main.go)|
