@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(472):
+### List of problems(473):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -208,6 +208,7 @@
 |702 | Search in a Sorted Array of Unknown Size |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/description/) | [Code](binarysearch/702/main.go)|
 |703 | Kth Largest Element in a Stream |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | [Code](heap/703/main.go)|
 |707 | Design Linked List |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/design-linked-list/description/) | [Code](design/707/main.go)|
+|708 | Insert into a Sorted Circular Linked List |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/description/) | [Code](linked_list/708/main.go)|
 |713 | Subarray Product Less Than K |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/subarray-product-less-than-k/description/) | [Code](sliding_window/713/main.go)|
 |721 | Accounts Merge |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/accounts-merge/description/) | [Code](heap/721/main.go)|
 |725 | Split Linked List in Parts |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/split-linked-list-in-parts/description/) | [Code](linked_list/725/main.go)|
