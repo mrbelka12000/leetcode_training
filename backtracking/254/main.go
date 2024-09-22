@@ -32,6 +32,5 @@ func runner(pos, n int, tmp []int) [][]int {
 			}
 		}
 	}
-
 	return result
 }
