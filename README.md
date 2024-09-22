@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(477):
+### List of problems(478):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -489,3 +489,4 @@
 |3248 | Snake in Matrix |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/snake-in-matrix/description/) | [Code](matrix/3248/main.go)|
 |3249 | Count the Number of Good Nodes |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-the-number-of-good-nodes/description/) | [Code](btree/3249/main.go)|
 |3250 | Find the Count of Monotonic Pairs I |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/description/) | [Code](dp/3250/main.go)|
+|3297 | Count Substrings That Can Be Rearranged to Contain a String I |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i/description/) | [Code](sliding_window/3297/main.go)|
