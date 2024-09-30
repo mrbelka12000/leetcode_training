@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(482):
+### List of problems(483):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -220,6 +220,7 @@
 |739 | Daily Temperatures |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/daily-temperatures/description/) | [Code](monotonic_stack/739/main.go)|
 |740 | Delete and Earn |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/delete-and-earn/description/) | [Code](dp/740/main.go)|
 |741 | Cherry Pickup |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/cherry-pickup/description/) | [Code](dp/741/main.go)|
+|742 | Closest Leaf in a Binary Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/description/) | [Code](btree/742/main.go)|
 |743 | Network Delay Time |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/network-delay-time/description/) | [Code](graph/743/main.go)|
 |745 | Prefix and Suffix Search |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/prefix-and-suffix-search/description/) | [Code](trie/745/main.go)|
 |759 | Employee Free Time |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/employee-free-time/description/) | [Code](stack/759/main.go)|
