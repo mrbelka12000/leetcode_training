@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(485):
+### List of problems(486):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -473,6 +473,7 @@
 |2792 | Count Nodes That Are Great Enough |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/count-nodes-that-are-great-enough/description/) | [Code](btree/2792/main.go)|
 |2807 | Insert Greatest Common Divisors in Linked List |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/) | [Code](linked_list/2807/main.go)|
 |2838 | Maximum Coins Heroes Can Collect |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/maximum-coins-heroes-can-collect/description/) | [Code](binarysearch/2838/main.go)|
+|2938 | Separate Black and White Balls |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/separate-black-and-white-balls/description/) | [Code](greedy/2938/main.go)|
 |2950 | Number of Divisible Substrings |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/number-of-divisible-substrings/description/) | [Code](hash_table/2950/main.go)|
 |2974 | Minimum Number Game |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/minimum-number-game/description/) | [Code](heap/2974/main.go)|
 |2992 | Number of Self-Divisible Permutations |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/number-of-self-divisible-permutations/description/) | [Code](backtracking/2992/main.go)|
