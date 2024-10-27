@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(486):
+### List of problems(487):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -92,6 +92,7 @@
 |173 | Binary Search Tree Iterator |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/binary-search-tree-iterator/description/) | [Code](btree/173/main.go)|
 |179 | Largest Number |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/largest-number/description/) | [Code](greedy/179/main.go)|
 |187 | Repeated DNA Sequences |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/repeated-dna-sequences/description/) | [Code](sliding_window/187/main.go)|
+|188 | Best Time to Buy and Sell Stock IV |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | [Code](dp/188/main.go)|
 |204 | Count Primes |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-primes/description/) | [Code](array/204/main.go)|
 |207 | Course Schedule |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/course-schedule/description/) | [Code](graph/207/main.go)|
 |208 | Implement Trie (Prefix Tree) |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/implement-trie-(prefix-tree)/description/) | [Code](trie/208/main.go)|
