@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(487):
+### List of problems(488):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -453,6 +453,7 @@
 |2410 | Maximum Matching of Players With Trainers |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/description/) | [Code](greedy/2410/main.go)|
 |2415 | Reverse Odd Levels of Binary Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/) | [Code](btree/2415/main.go)|
 |2419 | Longest Subarray With Maximum Bitwise AND |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/) | [Code](bit_manipulation/2419/main.go)|
+|2422 | Merge Operations to Turn Array Into a Palindrome |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/description/) | [Code](greedy/2422/main.go)|
 |2435 | Paths in Matrix Whose Sum Is Divisible by K |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/) | [Code](dp/2435/main.go)|
 |2462 | Total Cost to Hire K Workers |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/) | [Code](heap/2462/main.go)|
 |2477 | Minimum Fuel Cost to Report to the Capital |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/description/) | [Code](graph/2477/main.go)|
