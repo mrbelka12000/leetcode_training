@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(491):
+### List of problems(492):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -195,6 +195,7 @@
 |622 | Design Circular Queue |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/design-circular-queue/description/) | [Code](design/622/main.go)|
 |623 | Add One Row to Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/add-one-row-to-tree/description/) | [Code](btree/623/main.go)|
 |641 | Design Circular Deque |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/design-circular-deque/description/) | [Code](design/641/main.go)|
+|646 | Maximum Length of Pair Chain |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) | [Code](dp/646/main.go)|
 |648 | Replace Words |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/replace-words/description/) | [Code](hash_table/648/main.go)|
 |650 | 2 Keys Keyboard |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/2-keys-keyboard/description/) | [Code](dp/650/main.go)|
 |654 | Maximum Binary Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/maximum-binary-tree/description/) | [Code](btree/654/main.go)|
