@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(493):
+### List of problems(494):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -162,6 +162,7 @@
 |431 | Encode N-ary Tree to Binary Tree |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/) | [Code](design/431/main.go)|
 |433 | Minimum Genetic Mutation |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/minimum-genetic-mutation/description/) | [Code](hash_table/433/main.go)|
 |437 | Path Sum III |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/path-sum-iii/description/) | [Code](btree/437/main.go)|
+|441 | Arranging Coins |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/arranging-coins/description/) | [Code](math/441/main.go)|
 |445 | Add Two Numbers II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/add-two-numbers-ii/description/) | [Code](linked_list/445/main.go)|
 |446 | Arithmetic Slices II - Subsequence |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/arithmetic-slices-ii---subsequence/description/) | [Code](dp/446/main.go)|
 |452 | Minimum Number of Arrows to Burst Balloons |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) | [Code](array/452/main.go)|
