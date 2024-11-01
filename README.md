@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(494):
+### List of problems(495):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -413,6 +413,7 @@
 |1944 | Number of Visible People in a Queue |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/) | [Code](monotonic_stack/1944/main.go)|
 |1945 | Sum of Digits of String After Convert |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/) | [Code](string/1945/main.go)|
 |1947 | Maximum Compatibility Score Sum |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/maximum-compatibility-score-sum/description/) | [Code](backtracking/1947/main.go)|
+|1957 | Delete Characters to Make Fancy String |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/) | [Code](string/1957/main.go)|
 |1962 | Remove Stones to Minimize the Total |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/remove-stones-to-minimize-the-total/description/) | [Code](heap/1962/main.go)|
 |1971 | Find if Path Exists in Graph |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | [Code](union_find/1971/main.go)|
 |1973 | Count Nodes Equal to Sum of Descendants |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants/description/) | [Code](btree/1973/main.go)|
