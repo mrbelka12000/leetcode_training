@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(495):
+### List of problems(496):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -507,3 +507,4 @@
 |3250 | Find the Count of Monotonic Pairs I |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/description/) | [Code](dp/3250/main.go)|
 |3297 | Count Substrings That Can Be Rearranged to Contain a String I |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i/description/) | [Code](sliding_window/3297/main.go)|
 |3298 | Count Substrings That Can Be Rearranged to Contain a String II |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/description/) | [Code](sliding_window/3298/main.go)|
+|3342 | Find Minimum Time to Reach Last Room II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/) | [Code](graph/3342/main.go)|
