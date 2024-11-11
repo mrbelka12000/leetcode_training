@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(498):
+### List of problems(499):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -187,6 +187,7 @@
 |547 | Number of Provinces |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/number-of-provinces/description/) | [Code](union_find/547/main.go)|
 |559 | Maximum Depth of N-ary Tree |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) | [Code](btree/559/main.go)|
 |560 | Subarray Sum Equals K |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [Code](prefix_sum/560/main.go)|
+|563 | Binary Tree Tilt |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/binary-tree-tilt/description/) | [Code](btree/563/main.go)|
 |572 | Subtree of Another Tree |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Code](linked_list/572/main.go)|
 |576 | Out of Boundary Paths |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/out-of-boundary-paths/description/) | [Code](dp/576/main.go)|
 |588 | Design In-Memory File System |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/design-in-memory-file-system/description/) | [Code](design/588/main.go)|
