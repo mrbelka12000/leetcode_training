@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(499):
+### List of problems(500):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -190,6 +190,7 @@
 |563 | Binary Tree Tilt |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/binary-tree-tilt/description/) | [Code](btree/563/main.go)|
 |572 | Subtree of Another Tree |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Code](linked_list/572/main.go)|
 |576 | Out of Boundary Paths |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/out-of-boundary-paths/description/) | [Code](dp/576/main.go)|
+|582 | Kill Process |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/kill-process/description/) | [Code](graph/582/main.go)|
 |588 | Design In-Memory File System |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/design-in-memory-file-system/description/) | [Code](design/588/main.go)|
 |590 | N-ary Tree Postorder Traversal |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/) | [Code](btree/590/main.go)|
 |606 | Construct String from Binary Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/construct-string-from-binary-tree/description/) | [Code](btree/606/main.go)|
