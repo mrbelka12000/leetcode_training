@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(497):
+### List of problems(498):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -472,6 +472,7 @@
 |2536 | Increment Submatrices by One |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/increment-submatrices-by-one/description/) | [Code](matrix/2536/main.go)|
 |2559 | Count Vowel Strings in Ranges |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-vowel-strings-in-ranges/description/) | [Code](prefix_sum/2559/main.go)|
 |2583 | Kth Largest Sum in a Binary Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/) | [Code](btree/2583/main.go)|
+|2592 | Maximize Greatness of an Array |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/maximize-greatness-of-an-array/description/) | [Code](greedy/2592/main.go)|
 |2593 | Find Score of an Array After Marking All Elements |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/) | [Code](heap/2593/main.go)|
 |2599 | Make the Prefix Sum Non-negative |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/make-the-prefix-sum-non-negative/description/) | [Code](heap/2599/main.go)|
 |2642 | Design Graph With Shortest Path Calculator |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/) | [Code](graph/2642/main.go)|
