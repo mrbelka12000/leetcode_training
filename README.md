@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(501):
+### List of problems(502):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -349,6 +349,7 @@
 |1338 | Reduce Array Size to The Half |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/reduce-array-size-to-the-half/description/) | [Code](heap/1338/main.go)|
 |1343 | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/) | [Code](array/1343/main.go)|
 |1345 | Jump Game IV |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/jump-game-iv/description/) | [Code](array/1345/main.go)|
+|1361 | Validate Binary Tree Nodes |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/validate-binary-tree-nodes/description/) | [Code](topological_sort/1361/main.go)|
 |1367 | Linked List in Binary Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/linked-list-in-binary-tree/description/) | [Code](btree/1367/main.go)|
 |1372 | Longest ZigZag Path in a Binary Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/) | [Code](btree/1372/main.go)|
 |1380 | Lucky Numbers in a Matrix |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/) | [Code](matrix/1380/main.go)|
