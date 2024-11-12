@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(503):
+### List of problems(504):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -484,6 +484,7 @@
 |2671 | Frequency Tracker |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/frequency-tracker/description/) | [Code](design/2671/main.go)|
 |2679 | Sum in a Matrix |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/sum-in-a-matrix/description/) | [Code](heap/2679/main.go)|
 |2707 | Extra Characters in a String |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/extra-characters-in-a-string/description/) | [Code](dp/2707/main.go)|
+|2710 | Remove Trailing Zeros From a String |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/description/) | [Code](string/2710/main.go)|
 |2743 | Count Substrings Without Repeating Character |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-substrings-without-repeating-character/description/) | [Code](sliding_window/2743/main.go)|
 |2792 | Count Nodes That Are Great Enough |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/count-nodes-that-are-great-enough/description/) | [Code](btree/2792/main.go)|
 |2807 | Insert Greatest Common Divisors in Linked List |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/) | [Code](linked_list/2807/main.go)|
