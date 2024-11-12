@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(504):
+### List of problems(505):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -481,6 +481,7 @@
 |2593 | Find Score of an Array After Marking All Elements |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/) | [Code](heap/2593/main.go)|
 |2599 | Make the Prefix Sum Non-negative |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/make-the-prefix-sum-non-negative/description/) | [Code](heap/2599/main.go)|
 |2642 | Design Graph With Shortest Path Calculator |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/) | [Code](graph/2642/main.go)|
+|2670 | Find the Distinct Difference Array |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/find-the-distinct-difference-array/description/) | [Code](hash_table/2670/main.go)|
 |2671 | Frequency Tracker |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/frequency-tracker/description/) | [Code](design/2671/main.go)|
 |2679 | Sum in a Matrix |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/sum-in-a-matrix/description/) | [Code](heap/2679/main.go)|
 |2707 | Extra Characters in a String |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/extra-characters-in-a-string/description/) | [Code](dp/2707/main.go)|
