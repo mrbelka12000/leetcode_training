@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(502):
+### List of problems(503):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -471,6 +471,7 @@
 |2486 | Append Characters to String to Make Subsequence |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/) | [Code](greedy/2486/main.go)|
 |2487 | Remove Nodes From Linked List |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/remove-nodes-from-linked-list/description/) | [Code](monotonic_stack/2487/main.go)|
 |2491 | Divide Players Into Teams of Equal Skill |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/description/) | [Code](array/2491/main.go)|
+|2506 | Count Pairs Of Similar Strings |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/count-pairs-of-similar-strings/description/) | [Code](hash_table/2506/main.go)|
 |2510 | Check if There is a Path With Equal Number of 0's And 1's |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0's-and-1's/description/) | [Code](dp/2510/main.go)|
 |2512 | Reward Top K Students |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/reward-top-k-students/description/) | [Code](heap/2512/main.go)|
 |2536 | Increment Submatrices by One |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/increment-submatrices-by-one/description/) | [Code](matrix/2536/main.go)|
