@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(505):
+### List of problems(506):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -476,6 +476,7 @@
 |2512 | Reward Top K Students |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/reward-top-k-students/description/) | [Code](heap/2512/main.go)|
 |2536 | Increment Submatrices by One |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/increment-submatrices-by-one/description/) | [Code](matrix/2536/main.go)|
 |2559 | Count Vowel Strings in Ranges |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-vowel-strings-in-ranges/description/) | [Code](prefix_sum/2559/main.go)|
+|2563 | Count the Number of Fair Pairs |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/) | [Code](binarysearch/2563/main.go)|
 |2583 | Kth Largest Sum in a Binary Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/) | [Code](btree/2583/main.go)|
 |2592 | Maximize Greatness of an Array |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/maximize-greatness-of-an-array/description/) | [Code](greedy/2592/main.go)|
 |2593 | Find Score of an Array After Marking All Elements |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/) | [Code](heap/2593/main.go)|
