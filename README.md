@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(506):
+### List of problems(507):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -142,6 +142,7 @@
 |346 | Moving Average from Data Stream |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [Code](design/346/main.go)|
 |355 | Design Twitter |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/design-twitter/description/) | [Code](design/355/main.go)|
 |359 | Logger Rate Limiter |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/logger-rate-limiter/description/) | [Code](design/359/main.go)|
+|366 | Find Leaves of Binary Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-leaves-of-binary-tree/description/) | [Code](btree/366/main.go)|
 |368 | Largest Divisible Subset |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/largest-divisible-subset/description/) | [Code](dp/368/main.go)|
 |369 | Plus One Linked List |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/plus-one-linked-list/description/) | [Code](linked_list/369/main.go)|
 |373 | Find K Pairs with Smallest Sums |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) | [Code](heap/373/main.go)|
