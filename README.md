@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(507):
+### List of problems(508):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -294,6 +294,7 @@
 |1011 | Capacity To Ship Packages Within D Days |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) | [Code](binarysearch/1011/main.go)|
 |1020 | Number of Enclaves |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/number-of-enclaves/description/) | [Code](matrix/1020/main.go)|
 |1038 | Binary Search Tree to Greater Sum Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) | [Code](btree/1038/main.go)|
+|1042 | Flower Planting With No Adjacent |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/) | [Code](graph/1042/main.go)|
 |1046 | Last Stone Weight |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/last-stone-weight/description/) | [Code](heap/1046/main.go)|
 |1054 | Distant Barcodes |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/distant-barcodes/description/) | [Code](heap/1054/main.go)|
 |1062 | Longest Repeating Substring |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/longest-repeating-substring/description/) | [Code](string/1062/main.go)|
