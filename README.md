@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(508):
+### List of problems(509):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -118,6 +118,7 @@
 |254 | Factor Combinations |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/factor-combinations/description/) | [Code](backtracking/254/main.go)|
 |256 | Paint House |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/paint-house/description/) | [Code](dp/256/main.go)|
 |257 | Binary Tree Paths |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/binary-tree-paths/description/) | [Code](btree/257/main.go)|
+|259 | 3Sum Smaller |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/3sum-smaller/description/) | [Code](binarysearch/259/main.go)|
 |261 | Graph Valid Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/graph-valid-tree/description/) | [Code](union_find/261/main.go)|
 |267 | Palindrome Permutation II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/palindrome-permutation-ii/description/) | [Code](backtracking/267/main.go)|
 |271 | Encode and Decode Strings |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/encode-and-decode-strings/description/) | [Code](string/271/main.go)|
