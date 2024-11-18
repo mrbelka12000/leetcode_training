@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(515):
+### List of problems(516):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -525,5 +525,6 @@
 |3250 | Find the Count of Monotonic Pairs I |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/description/) | [Code](dp/3250/main.go)|
 |3297 | Count Substrings That Can Be Rearranged to Contain a String I |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i/description/) | [Code](sliding_window/3297/main.go)|
 |3298 | Count Substrings That Can Be Rearranged to Contain a String II |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/description/) | [Code](sliding_window/3298/main.go)|
+|3329 | Count Substrings With K-Frequency Characters II |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/count-substrings-with-k-frequency-characters-ii/description/) | [Code](sliding_window/3329/main.go)|
 |3341 | Find Minimum Time to Reach Last Room I |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/description/) | [Code](matrix/3341/main.go)|
 |3342 | Find Minimum Time to Reach Last Room II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/) | [Code](graph/3342/main.go)|
