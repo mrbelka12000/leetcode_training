@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(514):
+### List of problems(515):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -496,6 +496,7 @@
 |2707 | Extra Characters in a String |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/extra-characters-in-a-string/description/) | [Code](dp/2707/main.go)|
 |2710 | Remove Trailing Zeros From a String |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/description/) | [Code](string/2710/main.go)|
 |2743 | Count Substrings Without Repeating Character |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-substrings-without-repeating-character/description/) | [Code](sliding_window/2743/main.go)|
+|2788 | Split Strings by Separator |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/split-strings-by-separator/description/) | [Code](string/2788/main.go)|
 |2792 | Count Nodes That Are Great Enough |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/count-nodes-that-are-great-enough/description/) | [Code](btree/2792/main.go)|
 |2807 | Insert Greatest Common Divisors in Linked List |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/) | [Code](linked_list/2807/main.go)|
 |2838 | Maximum Coins Heroes Can Collect |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/maximum-coins-heroes-can-collect/description/) | [Code](binarysearch/2838/main.go)|
