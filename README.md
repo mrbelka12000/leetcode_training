@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(513):
+### List of problems(514):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -399,6 +399,7 @@
 |1641 | Count Sorted Vowel Strings |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-sorted-vowel-strings/description/) | [Code](dp/1641/main.go)|
 |1647 | Minimum Deletions to Make Character Frequencies Unique |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/description/) | [Code](greedy/1647/main.go)|
 |1650 | Lowest Common Ancestor of a Binary Tree III |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/description/) | [Code](btree/1650/main.go)|
+|1652 | Defuse the Bomb |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/defuse-the-bomb/description/) | [Code](array/1652/main.go)|
 |1653 | Minimum Deletions to Make String Balanced |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/) | [Code](stack/1653/main.go)|
 |1657 | Determine if Two Strings Are Close |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/determine-if-two-strings-are-close/description/) | [Code](hash_table/1657/main.go)|
 |1670 | Design Front Middle Back Queue |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/design-front-middle-back-queue/description/) | [Code](design/1670/main.go)|
