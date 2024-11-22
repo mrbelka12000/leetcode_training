@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(516):
+### List of problems(517):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -262,6 +262,7 @@
 |848 | Shifting Letters |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/shifting-letters/description/) | [Code](array/848/main.go)|
 |849 | Maximize Distance to Closest Person |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) | [Code](array/849/main.go)|
 |853 | Car Fleet |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/car-fleet/description/) | [Code](monotonic_stack/853/main.go)|
+|860 | Lemonade Change |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/lemonade-change/description/) | [Code](greedy/860/main.go)|
 |863 | All Nodes Distance K in Binary Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) | [Code](btree/863/main.go)|
 |865 | Smallest Subtree with all the Deepest Nodes |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) | [Code](btree/865/main.go)|
 |867 | Transpose Matrix |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/transpose-matrix/description/) | [Code](matrix/867/main.go)|
