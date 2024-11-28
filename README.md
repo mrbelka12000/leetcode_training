@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(519):
+### List of problems(520):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -163,6 +163,7 @@
 |409 | Longest Palindrome |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/longest-palindrome/description/) | [Code](greedy/409/main.go)|
 |413 | Arithmetic Slices |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/arithmetic-slices/description/) | [Code](dp/413/main.go)|
 |416 | Partition Equal Subset Sum |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Code](dp/416/main.go)|
+|422 | Valid Word Square |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/valid-word-square/description/) | [Code](matrix/422/main.go)|
 |424 | Longest Repeating Character Replacement |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Code](sliding_window/424/main.go)|
 |431 | Encode N-ary Tree to Binary Tree |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/) | [Code](design/431/main.go)|
 |433 | Minimum Genetic Mutation |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/minimum-genetic-mutation/description/) | [Code](hash_table/433/main.go)|
