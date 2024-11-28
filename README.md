@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(518):
+### List of problems(519):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -516,6 +516,7 @@
 |3090 | Maximum Length Substring With Two Occurrences |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/description/) | [Code](sliding_window/3090/main.go)|
 |3105 | Longest Strictly Increasing or Strictly Decreasing Subarray |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/) | [Code](monotonic_stack/3105/main.go)|
 |3110 | Score of a String |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/score-of-a-string/description/) | [Code](string/3110/main.go)|
+|3121 | Count the Number of Special Characters II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/) | [Code](hash_table/3121/main.go)|
 |3131 | Find the Integer Added to Array I |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/find-the-integer-added-to-array-i/description/) | [Code](array/3131/main.go)|
 |3163 | String Compression III |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/string-compression-iii/description/) | [Code](string/3163/main.go)|
 |3170 | Lexicographically Minimum String After Removing Stars |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/description/) | [Code](heap/3170/main.go)|
