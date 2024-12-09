@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(520):
+### List of problems(522):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -368,6 +368,7 @@
 |1405 | Longest Happy String |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/longest-happy-string/description/) | [Code](greedy/1405/main.go)|
 |1414 | Find the Minimum Number of Fibonacci Numbers Whose Sum Is K |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/) | [Code](greedy/1414/main.go)|
 |1415 | The k-th Lexicographical String of All Happy Strings of Length n |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/) | [Code](backtracking/1415/main.go)|
+|1419 | Minimum Number of Frogs Croaking |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/minimum-number-of-frogs-croaking/description/) | [Code](string/1419/main.go)|
 |1448 | Count Good Nodes in Binary Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/) | [Code](btree/1448/main.go)|
 |1457 | Pseudo-Palindromic Paths in a Binary Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/) | [Code](btree/1457/main.go)|
 |1466 | Reorder Routes to Make All Paths Lead to the City Zero |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/) | [Code](graph/1466/main.go)|
@@ -419,6 +420,7 @@
 |1839 | Longest Substring Of All Vowels in Order |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/description/) | [Code](sliding_window/1839/main.go)|
 |1852 | Distinct Numbers in Each Subarray |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/distinct-numbers-in-each-subarray/description/) | [Code](sliding_window/1852/main.go)|
 |1863 | Sum of All Subset XOR Totals |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/) | [Code](backtracking/1863/main.go)|
+|1877 | Minimize Maximum Pair Sum in Array |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/) | [Code](greedy/1877/main.go)|
 |1880 | Check if Word Equals Summation of Two Words |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description/) | [Code](string/1880/main.go)|
 |1894 | Find the Student that Will Replace the Chalk |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/) | [Code](array/1894/main.go)|
 |1905 | Count Sub Islands |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-sub-islands/description/) | [Code](matrix/1905/main.go)|
