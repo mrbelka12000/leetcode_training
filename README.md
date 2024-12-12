@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(527):
+### List of problems(528):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -428,6 +428,7 @@
 |1894 | Find the Student that Will Replace the Chalk |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/) | [Code](array/1894/main.go)|
 |1905 | Count Sub Islands |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-sub-islands/description/) | [Code](matrix/1905/main.go)|
 |1910 | Remove All Occurrences of a Substring |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/) | [Code](string/1910/main.go)|
+|1935 | Maximum Number of Words You Can Type |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/) | [Code](hash_table/1935/main.go)|
 |1940 | Longest Common Subsequence Between Sorted Arrays |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/description/) | [Code](array/1940/main.go)|
 |1944 | Number of Visible People in a Queue |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/) | [Code](monotonic_stack/1944/main.go)|
 |1945 | Sum of Digits of String After Convert |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/) | [Code](string/1945/main.go)|
