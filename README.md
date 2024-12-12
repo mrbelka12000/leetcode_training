@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(523):
+### List of problems(524):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -89,6 +89,7 @@
 |160 | Intersection of Two Linked Lists |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Code](linked_list/160/main.go)|
 |161 | One Edit Distance |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/one-edit-distance/description/) | [Code](string/161/main.go)|
 |164 | Maximum Gap |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/maximum-gap/description/) | [Code](heap/164/main.go)|
+|170 | Two Sum III - Data structure design |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/two-sum-iii---data-structure-design/description/) | [Code](design/170/main.go)|
 |172 | Factorial Trailing Zeroes |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/factorial-trailing-zeroes/description/) | [Code](math/172/main.go)|
 |173 | Binary Search Tree Iterator |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/binary-search-tree-iterator/description/) | [Code](btree/173/main.go)|
 |179 | Largest Number |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/largest-number/description/) | [Code](greedy/179/main.go)|
