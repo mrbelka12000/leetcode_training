@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(525):
+### List of problems(526):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -460,6 +460,7 @@
 |2241 | Design an ATM Machine |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/design-an-atm-machine/description/) | [Code](design/2241/main.go)|
 |2260 | Minimum Consecutive Cards to Pick Up |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/description/) | [Code](array/2260/main.go)|
 |2265 | Count Nodes Equal to Average of Subtree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/) | [Code](btree/2265/main.go)|
+|2273 | Find Resultant Array After Removing Anagrams |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/) | [Code](hash_table/2273/main.go)|
 |2289 | Steps to Make Array Non-decreasing |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/steps-to-make-array-non-decreasing/description/) | [Code](monotonic_stack/2289/main.go)|
 |2290 | Minimum Obstacle Removal to Reach Corner |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/) | [Code](graph/2290/main.go)|
 |2295 | Replace Elements in an Array |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/replace-elements-in-an-array/description/) | [Code](hash_table/2295/main.go)|
