@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(529):
+### List of problems(530):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -201,6 +201,7 @@
 |576 | Out of Boundary Paths |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/out-of-boundary-paths/description/) | [Code](dp/576/main.go)|
 |582 | Kill Process |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/kill-process/description/) | [Code](graph/582/main.go)|
 |588 | Design In-Memory File System |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/design-in-memory-file-system/description/) | [Code](design/588/main.go)|
+|589 | N-ary Tree Preorder Traversal |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/) | [Code](btree/589/main.go)|
 |590 | N-ary Tree Postorder Traversal |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/) | [Code](btree/590/main.go)|
 |606 | Construct String from Binary Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/construct-string-from-binary-tree/description/) | [Code](btree/606/main.go)|
 |621 | Task Scheduler |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/task-scheduler/description/) | [Code](heap/621/main.go)|
