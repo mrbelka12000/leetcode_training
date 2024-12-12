@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(528):
+### List of problems(529):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -316,6 +316,7 @@
 |1101 | The Earliest Moment When Everyone Become Friends |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/) | [Code](union_find/1101/main.go)|
 |1110 | Delete Nodes And Return Forest |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) | [Code](btree/1110/main.go)|
 |1123 | Lowest Common Ancestor of Deepest Leaves |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/) | [Code](btree/1123/main.go)|
+|1128 | Number of Equivalent Domino Pairs |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/) | [Code](hash_table/1128/main.go)|
 |1135 | Connecting Cities With Minimum Cost |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/) | [Code](union_find/1135/main.go)|
 |1136 | Parallel Courses |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/parallel-courses/description/) | [Code](graph/1136/main.go)|
 |1146 | Snapshot Array |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/snapshot-array/description/) | [Code](design/1146/main.go)|
