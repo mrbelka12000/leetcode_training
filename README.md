@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(524):
+### List of problems(525):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -327,6 +327,7 @@
 |1197 | Minimum Knight Moves |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/minimum-knight-moves/description/) | [Code](matrix/1197/main.go)|
 |1198 | Find Smallest Common Element in All Rows |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/description/) | [Code](binarysearch/1198/main.go)|
 |1200 | Minimum Absolute Difference |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/minimum-absolute-difference/description/) | [Code](array/1200/main.go)|
+|1213 | Intersection of Three Sorted Arrays |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/intersection-of-three-sorted-arrays/description/) | [Code](hash_table/1213/main.go)|
 |1214 | Two Sum BSTs |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/two-sum-bsts/description/) | [Code](binarysearch/1214/main.go)|
 |1219 | Path with Maximum Gold |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/path-with-maximum-gold/description/) | [Code](backtracking/1219/main.go)|
 |1222 | Queens That Can Attack the King |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/queens-that-can-attack-the-king/description/) | [Code](array/1222/main.go)|
