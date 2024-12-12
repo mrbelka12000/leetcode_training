@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(526):
+### List of problems(527):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -459,6 +459,7 @@
 |2204 | Distance to a Cycle in Undirected Graph |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph/description/) | [Code](graph/2204/main.go)|
 |2241 | Design an ATM Machine |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/design-an-atm-machine/description/) | [Code](design/2241/main.go)|
 |2260 | Minimum Consecutive Cards to Pick Up |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/description/) | [Code](array/2260/main.go)|
+|2261 | K Divisible Elements Subarrays |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/k-divisible-elements-subarrays/description/) | [Code](hash_table/2261/main.go)|
 |2265 | Count Nodes Equal to Average of Subtree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/) | [Code](btree/2265/main.go)|
 |2273 | Find Resultant Array After Removing Anagrams |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/) | [Code](hash_table/2273/main.go)|
 |2289 | Steps to Make Array Non-decreasing |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/steps-to-make-array-non-decreasing/description/) | [Code](monotonic_stack/2289/main.go)|
