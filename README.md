@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(532):
+### List of problems(533):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -93,6 +93,7 @@
 |172 | Factorial Trailing Zeroes |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/factorial-trailing-zeroes/description/) | [Code](math/172/main.go)|
 |173 | Binary Search Tree Iterator |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/binary-search-tree-iterator/description/) | [Code](btree/173/main.go)|
 |175 | Combine Two Tables |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/combine-two-tables/description/) | [Code](sql/175/main.go)|
+|176 | Second Highest Salary |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/second-highest-salary/description/) | [Code](sql/176/main.go)|
 |179 | Largest Number |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/largest-number/description/) | [Code](greedy/179/main.go)|
 |186 | Reverse Words in a String II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) | [Code](string/186/main.go)|
 |187 | Repeated DNA Sequences |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/repeated-dna-sequences/description/) | [Code](sliding_window/187/main.go)|
