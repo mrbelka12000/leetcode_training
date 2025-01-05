@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(535):
+### List of problems(536):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -405,6 +405,7 @@
 |1584 | Min Cost to Connect All Points |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | [Code](union_find/1584/main.go)|
 |1593 | Split a String Into the Max Number of Unique Substrings |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/description/) | [Code](backtracking/1593/main.go)|
 |1598 | Crawler Log Folder |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/crawler-log-folder/description/) | [Code](stack/1598/main.go)|
+|1608 | Special Array With X Elements Greater Than or Equal X |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/) | [Code](array/1608/main.go)|
 |1609 | Even Odd Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/even-odd-tree/description/) | [Code](btree/1609/main.go)|
 |1630 | Arithmetic Subarrays |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/arithmetic-subarrays/description/) | [Code](array/1630/main.go)|
 |1636 | Sort Array by Increasing Frequency |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/) | [Code](hash_table/1636/main.go)|
