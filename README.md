@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(536):
+### List of problems(537):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -336,6 +336,7 @@
 |1213 | Intersection of Three Sorted Arrays |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/intersection-of-three-sorted-arrays/description/) | [Code](hash_table/1213/main.go)|
 |1214 | Two Sum BSTs |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/two-sum-bsts/description/) | [Code](binarysearch/1214/main.go)|
 |1219 | Path with Maximum Gold |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/path-with-maximum-gold/description/) | [Code](backtracking/1219/main.go)|
+|1221 | Split a String in Balanced Strings |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/) | [Code](string/1221/main.go)|
 |1222 | Queens That Can Attack the King |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/queens-that-can-attack-the-king/description/) | [Code](array/1222/main.go)|
 |1233 | Remove Sub-Folders from the Filesystem |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/) | [Code](trie/1233/main.go)|
 |1235 | Maximum Profit in Job Scheduling |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | [Code](dp/1235/main.go)|
