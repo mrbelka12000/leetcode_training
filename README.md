@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(537):
+### List of problems(538):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -221,6 +221,7 @@
 |655 | Print Binary Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/print-binary-tree/description/) | [Code](btree/655/main.go)|
 |658 | Find K Closest Elements |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-k-closest-elements/description/) | [Code](heap/658/main.go)|
 |665 | Non-decreasing Array |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/non-decreasing-array/description/) | [Code](array/665/main.go)|
+|671 | Second Minimum Node In a Binary Tree |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) | [Code](btree/671/main.go)|
 |676 | Implement Magic Dictionary |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/implement-magic-dictionary/description/) | [Code](design/676/main.go)|
 |677 | Map Sum Pairs |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/map-sum-pairs/description/) | [Code](design/677/main.go)|
 |678 | Valid Parenthesis String |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/valid-parenthesis-string/description/) | [Code](dp/678/main.go)|
