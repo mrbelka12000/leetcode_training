@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(538):
+### List of problems(539):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -264,6 +264,7 @@
 |817 | Linked List Components |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/linked-list-components/description/) | [Code](linked_list/817/main.go)|
 |818 | Race Car |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/race-car/description/) | [Code](btree/818/main.go)|
 |819 | Most Common Word |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/most-common-word/description/) | [Code](string/819/main.go)|
+|821 | Shortest Distance to a Character |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/shortest-distance-to-a-character/description/) | [Code](array/821/main.go)|
 |826 | Most Profit Assigning Work |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/most-profit-assigning-work/description/) | [Code](greedy/826/main.go)|
 |834 | Sum of Distances in Tree |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/sum-of-distances-in-tree/description/) | [Code](graph/834/main.go)|
 |840 | Magic Squares In Grid |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/magic-squares-in-grid/description/) | [Code](matrix/840/main.go)|
