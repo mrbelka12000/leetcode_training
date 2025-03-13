@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(541):
+### List of problems(542):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -485,6 +485,7 @@
 |2328 | Number of Increasing Paths in a Grid |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/description/) | [Code](graph/2328/main.go)|
 |2340 | Minimum Adjacent Swaps to Make a Valid Array |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/description/) | [Code](greedy/2340/main.go)|
 |2342 | Max Sum of a Pair With Equal Sum of Digits |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description/) | [Code](heap/2342/main.go)|
+|2348 | Number of Zero-Filled Subarrays |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/) | [Code](array/2348/main.go)|
 |2360 | Longest Cycle in a Graph |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/longest-cycle-in-a-graph/description/) | [Code](graph/2360/main.go)|
 |2361 | Minimum Costs Using the Train Line |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/minimum-costs-using-the-train-line/description/) | [Code](dp/2361/main.go)|
 |2365 | Task Scheduler II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/task-scheduler-ii/description/) | [Code](array/2365/main.go)|
