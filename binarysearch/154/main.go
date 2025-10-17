@@ -13,7 +13,7 @@ func findMin(nums []int) int {
 
 	return 0
 }
-
+	
 func findPeekInd(nums []int) int {
 	l, r := 0, len(nums)-1
 	var ind int
