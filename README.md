@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(552):
+### List of problems(553):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -414,6 +414,7 @@
 |1609 | Even Odd Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/even-odd-tree/description/) | [Code](btree/1609/main.go)|
 |1630 | Arithmetic Subarrays |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/arithmetic-subarrays/description/) | [Code](array/1630/main.go)|
 |1636 | Sort Array by Increasing Frequency |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/) | [Code](hash_table/1636/main.go)|
+|1637 | Widest Vertical Area Between Two Points Containing No Points |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/) | [Code](array/1637/main.go)|
 |1641 | Count Sorted Vowel Strings |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-sorted-vowel-strings/description/) | [Code](dp/1641/main.go)|
 |1647 | Minimum Deletions to Make Character Frequencies Unique |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/description/) | [Code](greedy/1647/main.go)|
 |1650 | Lowest Common Ancestor of a Binary Tree III |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/description/) | [Code](btree/1650/main.go)|
