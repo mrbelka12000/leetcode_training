@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(553):
+### List of problems(554):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -352,6 +352,7 @@
 |1265 | Print Immutable Linked List in Reverse |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/description/) | [Code](linked_list/1265/main.go)|
 |1267 | Count Servers that Communicate |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-servers-that-communicate/description/) | [Code](graph/1267/main.go)|
 |1277 | Count Square Submatrices with All Ones |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/) | [Code](dp/1277/main.go)|
+|1281 | Subtract the Product and Sum of Digits of an Integer |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/) | [Code](math/1281/main.go)|
 |1283 | Find the Smallest Divisor Given a Threshold |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/) | [Code](array/1283/main.go)|
 |1284 | Minimum Number of Flips to Convert Binary Matrix to Zero Matrix |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/description/) | [Code](backtracking/1284/main.go)|
 |1286 | Iterator for Combination |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/iterator-for-combination/description/) | [Code](design/1286/main.go)|
