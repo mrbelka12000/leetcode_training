@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(546):
+### List of problems(547):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -545,6 +545,7 @@
 |3163 | String Compression III |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/string-compression-iii/description/) | [Code](string/3163/main.go)|
 |3170 | Lexicographically Minimum String After Removing Stars |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/description/) | [Code](heap/3170/main.go)|
 |3180 | Maximum Total Reward Using Operations I |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/maximum-total-reward-using-operations-i/description/) | [Code](dp/3180/main.go)|
+|3190 | Find Minimum Operations to Make All Elements Divisible by Three |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/description/) | [Code](math/3190/main.go)|
 |3205 | Maximum Array Hopping Score I |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/maximum-array-hopping-score-i/description/) | [Code](dp/3205/main.go)|
 |3233 | Find the Count of Numbers Which Are Not Special |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/description/) | [Code](math/3233/main.go)|
 |3248 | Snake in Matrix |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/snake-in-matrix/description/) | [Code](matrix/3248/main.go)|
