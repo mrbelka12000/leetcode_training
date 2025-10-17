@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(547):
+### List of problems(548):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -559,3 +559,4 @@
 |3516 | Find Closest Person |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/find-closest-person/description/) | [Code](math/3516/main.go)|
 |3541 | Find Most Frequent Vowel and Consonant |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/) | [Code](string/3541/main.go)|
 |3668 | Restore Finishing Order |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/restore-finishing-order/description/) | [Code](hash_table/3668/main.go)|
+|3701 | Compute Alternating Sum |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/compute-alternating-sum/description/) | [Code](math/3701/main.go)|
