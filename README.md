@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(544):
+### List of problems(545):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -556,3 +556,4 @@
 |3341 | Find Minimum Time to Reach Last Room I |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/description/) | [Code](matrix/3341/main.go)|
 |3342 | Find Minimum Time to Reach Last Room II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/) | [Code](graph/3342/main.go)|
 |3541 | Find Most Frequent Vowel and Consonant |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/) | [Code](string/3541/main.go)|
+|3668 | Restore Finishing Order |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/restore-finishing-order/description/) | [Code](hash_table/3668/main.go)|
