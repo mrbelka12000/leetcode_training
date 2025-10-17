@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(550):
+### List of problems(551):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -542,6 +542,7 @@
 |3110 | Score of a String |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/score-of-a-string/description/) | [Code](string/3110/main.go)|
 |3121 | Count the Number of Special Characters II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/) | [Code](hash_table/3121/main.go)|
 |3131 | Find the Integer Added to Array I |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/find-the-integer-added-to-array-i/description/) | [Code](array/3131/main.go)|
+|3146 | Permutation Difference between Two Strings |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/permutation-difference-between-two-strings/description/) | [Code](string/3146/main.go)|
 |3163 | String Compression III |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/string-compression-iii/description/) | [Code](string/3163/main.go)|
 |3170 | Lexicographically Minimum String After Removing Stars |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/description/) | [Code](heap/3170/main.go)|
 |3180 | Maximum Total Reward Using Operations I |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/maximum-total-reward-using-operations-i/description/) | [Code](dp/3180/main.go)|
