@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(554):
+### List of problems(556):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -190,6 +190,7 @@
 |513 | Find Bottom Left Tree Value |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | [Code](btree/513/main.go)|
 |518 | Coin Change II |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/coin-change-ii/description/) | [Code](dp/518/main.go)|
 |520 | Detect Capital |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/detect-capital/description/) | [Code](string/520/main.go)|
+|523 | Continuous Subarray Sum |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/continuous-subarray-sum/description/) | [Code](prefix_sum/523/main.go)|
 |525 | Contiguous Array |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/contiguous-array/description/) | [Code](hash_table/525/main.go)|
 |526 | Beautiful Arrangement |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/beautiful-arrangement/description/) | [Code](backtracking/526/main.go)|
 |532 | K-diff Pairs in an Array |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | [Code](array/532/main.go)|
@@ -378,6 +379,7 @@
 |1372 | Longest ZigZag Path in a Binary Tree |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/) | [Code](btree/1372/main.go)|
 |1380 | Lucky Numbers in a Matrix |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/) | [Code](matrix/1380/main.go)|
 |1387 | Sort Integers by The Power Value |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/sort-integers-by-the-power-value/description/) | [Code](dp/1387/main.go)|
+|1389 | Create Target Array in the Given Order |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/create-target-array-in-the-given-order/description/) | [Code](array/1389/main.go)|
 |1395 | Count Number of Teams |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/count-number-of-teams/description/) | [Code](array/1395/main.go)|
 |1402 | Reducing Dishes |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/reducing-dishes/description/) | [Code](greedy/1402/main.go)|
 |1405 | Longest Happy String |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/longest-happy-string/description/) | [Code](greedy/1405/main.go)|
