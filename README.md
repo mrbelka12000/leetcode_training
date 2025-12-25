@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(558):
+### List of problems(559):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -140,6 +140,7 @@
 |297 | Serialize and Deserialize Binary Tree |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [Code](btree/297/main.go)|
 |300 | Longest Increasing Subsequence |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Code](dp/300/main.go)|
 |302 | Smallest Rectangle Enclosing Black Pixels |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/) | [Code](matrix/302/main.go)|
+|304 | Range Sum Query 2D - Immutable |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/range-sum-query-2d---immutable/description/) | [Code](prefix_sum/304/main.go)|
 |307 | Range Sum Query - Mutable |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/range-sum-query---mutable/description/) | [Code](fenwick_tree/307/main.go)|
 |308 | Range Sum Query 2D - Mutable |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/range-sum-query-2d---mutable/description/) | [Code](prefix_sum/308/main.go)|
 |314 | Binary Tree Vertical Order Traversal |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Code](btree/314/main.go)|
