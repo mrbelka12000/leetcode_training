@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(559):
+### List of problems(560):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|--------|------|
@@ -387,6 +387,7 @@
 |1414 | Find the Minimum Number of Fibonacci Numbers Whose Sum Is K |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/) | [Code](greedy/1414/main.go)|
 |1415 | The k-th Lexicographical String of All Happy Strings of Length n |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/) | [Code](backtracking/1415/main.go)|
 |1419 | Minimum Number of Frogs Croaking |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/minimum-number-of-frogs-croaking/description/) | [Code](string/1419/main.go)|
+|1441 | Build an Array With Stack Operations |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/build-an-array-with-stack-operations/description/) | [Code](stack/1441/main.go)|
 |1448 | Count Good Nodes in Binary Tree |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/) | [Code](btree/1448/main.go)|
 |1457 | Pseudo-Palindromic Paths in a Binary Tree |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/) | [Code](btree/1457/main.go)|
 |1466 | Reorder Routes to Make All Paths Lead to the City Zero |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/) | [Code](graph/1466/main.go)|
