@@ -1,6 +1,6 @@
 # leetcode_training
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mrbelka12000?theme=nord&font=Nunito%20Sans&ext=heatmap&cache=0)
+![](https://leetcard.jacoblin.cool/mrbelka12000?ext=heatmap&cache=0&theme=wtf)
 
 ### Collection of leetcode problems solved and noted by me (list of problems not full)
 
