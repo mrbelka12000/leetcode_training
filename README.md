@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(557):
+### List of problems(558):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|------|------|
@@ -543,6 +543,7 @@
 |3037 | Find Pattern in Infinite Stream II |$\color{red}{\textsf{Hard}}$ | [Link](https://leetcode.com/problems/find-pattern-in-infinite-stream-ii/description/) | [Code](string/3037/main.go)|
 |3043 | Find the Length of the Longest Common Prefix |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/) | [Code](hash_table/3043/main.go)|
 |3063 | Linked List Frequency |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/linked-list-frequency/description/) | [Code](linked_list/3063/main.go)|
+|3075 | Maximize Happiness of Selected Children |$\color{orange}{\textsf{Medium}}$ | [Link](https://leetcode.com/problems/maximize-happiness-of-selected-children/description/) | [Code](greedy/3075/main.go)|
 |3090 | Maximum Length Substring With Two Occurrences |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/description/) | [Code](sliding_window/3090/main.go)|
 |3105 | Longest Strictly Increasing or Strictly Decreasing Subarray |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/) | [Code](monotonic_stack/3105/main.go)|
 |3110 | Score of a String |$\color{green}{\textsf{Easy}}$ | [Link](https://leetcode.com/problems/score-of-a-string/description/) | [Code](string/3110/main.go)|
