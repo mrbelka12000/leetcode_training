@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(560):
+### List of problems(561):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|--------|------|
@@ -384,6 +384,7 @@
 |1395 | Count Number of Teams |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/count-number-of-teams/description/) | [Code](array/1395/main.go)|
 |1402 | Reducing Dishes |![Hard](https://img.shields.io/badge/Hard-red?style=flat-square) | [Link](https://leetcode.com/problems/reducing-dishes/description/) | [Code](greedy/1402/main.go)|
 |1405 | Longest Happy String |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/longest-happy-string/description/) | [Code](greedy/1405/main.go)|
+|1411 | Number of Ways to Paint N × 3 Grid |![Hard](https://img.shields.io/badge/Hard-red?style=flat-square) | [Link](https://leetcode.com/problems/number-of-ways-to-paint-n-×-3-grid/description/) | [Code](dp/1411/main.go)|
 |1414 | Find the Minimum Number of Fibonacci Numbers Whose Sum Is K |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/) | [Code](greedy/1414/main.go)|
 |1415 | The k-th Lexicographical String of All Happy Strings of Length n |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/) | [Code](backtracking/1415/main.go)|
 |1419 | Minimum Number of Frogs Croaking |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/minimum-number-of-frogs-croaking/description/) | [Code](string/1419/main.go)|
