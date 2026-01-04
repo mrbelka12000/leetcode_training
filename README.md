@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(561):
+### List of problems(562):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|--------|------|
@@ -381,6 +381,7 @@
 |1380 | Lucky Numbers in a Matrix |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/) | [Code](matrix/1380/main.go)|
 |1387 | Sort Integers by The Power Value |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/sort-integers-by-the-power-value/description/) | [Code](dp/1387/main.go)|
 |1389 | Create Target Array in the Given Order |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/create-target-array-in-the-given-order/description/) | [Code](array/1389/main.go)|
+|1390 | Four Divisors |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/four-divisors/description/) | [Code](math/1390/main.go)|
 |1395 | Count Number of Teams |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/count-number-of-teams/description/) | [Code](array/1395/main.go)|
 |1402 | Reducing Dishes |![Hard](https://img.shields.io/badge/Hard-red?style=flat-square) | [Link](https://leetcode.com/problems/reducing-dishes/description/) | [Code](greedy/1402/main.go)|
 |1405 | Longest Happy String |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/longest-happy-string/description/) | [Code](greedy/1405/main.go)|
