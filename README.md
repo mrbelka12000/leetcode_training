@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(562):
+### List of problems(563):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|--------|------|
@@ -373,6 +373,7 @@
 |1333 | Filter Restaurants by Vegan-Friendly, Price and Distance |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly,-price-and-distance/description/) | [Code](array/1333/main.go)|
 |1337 | The K Weakest Rows in a Matrix |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/) | [Code](heap/1337/main.go)|
 |1338 | Reduce Array Size to The Half |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/reduce-array-size-to-the-half/description/) | [Code](heap/1338/main.go)|
+|1339 | Maximum Product of Splitted Binary Tree |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/) | [Code](btree/1339/main.go)|
 |1343 | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/) | [Code](array/1343/main.go)|
 |1345 | Jump Game IV |![Hard](https://img.shields.io/badge/Hard-red?style=flat-square) | [Link](https://leetcode.com/problems/jump-game-iv/description/) | [Code](array/1345/main.go)|
 |1361 | Validate Binary Tree Nodes |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/validate-binary-tree-nodes/description/) | [Code](topological_sort/1361/main.go)|
