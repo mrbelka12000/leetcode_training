@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(563):
+### List of problems(564):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|--------|------|
@@ -393,6 +393,7 @@
 |1441 | Build an Array With Stack Operations |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/build-an-array-with-stack-operations/description/) | [Code](stack/1441/main.go)|
 |1448 | Count Good Nodes in Binary Tree |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/) | [Code](btree/1448/main.go)|
 |1457 | Pseudo-Palindromic Paths in a Binary Tree |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/) | [Code](btree/1457/main.go)|
+|1458 | Max Dot Product of Two Subsequences |![Hard](https://img.shields.io/badge/Hard-red?style=flat-square) | [Link](https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/) | [Code](dp/1458/main.go)|
 |1466 | Reorder Routes to Make All Paths Lead to the City Zero |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/) | [Code](graph/1466/main.go)|
 |1472 | Design Browser History |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/design-browser-history/description/) | [Code](design/1472/main.go)|
 |1474 | Delete N Nodes After M Nodes of a Linked List |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/description/) | [Code](linked_list/1474/main.go)|
