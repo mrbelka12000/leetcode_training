@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(567):
+### List of problems(568):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|--------|------|
@@ -372,6 +372,7 @@
 |1315 | Sum of Nodes with Even-Valued Grandparent |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/) | [Code](btree/1315/main.go)|
 |1324 | Print Words Vertically |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/print-words-vertically/description/) | [Code](array/1324/main.go)|
 |1325 | Delete Leaves With a Given Value |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/) | [Code](btree/1325/main.go)|
+|1328 | Break a Palindrome |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/break-a-palindrome/description/) | [Code](greedy/1328/main.go)|
 |1333 | Filter Restaurants by Vegan-Friendly, Price and Distance |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly,-price-and-distance/description/) | [Code](array/1333/main.go)|
 |1337 | The K Weakest Rows in a Matrix |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/) | [Code](heap/1337/main.go)|
 |1338 | Reduce Array Size to The Half |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/reduce-array-size-to-the-half/description/) | [Code](heap/1338/main.go)|
