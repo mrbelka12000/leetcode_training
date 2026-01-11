@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(568):
+### List of problems(569):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|--------|------|
@@ -580,3 +580,4 @@
 |3541 | Find Most Frequent Vowel and Consonant |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/) | [Code](string/3541/main.go)|
 |3668 | Restore Finishing Order |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/restore-finishing-order/description/) | [Code](hash_table/3668/main.go)|
 |3701 | Compute Alternating Sum |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/compute-alternating-sum/description/) | [Code](math/3701/main.go)|
+|3760 | Maximum Substrings With Distinct Start |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/maximum-substrings-with-distinct-start/description/) | [Code](string/3760/main.go)|
