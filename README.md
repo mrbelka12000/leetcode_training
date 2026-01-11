@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(566):
+### List of problems(567):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|--------|------|
@@ -431,6 +431,7 @@
 |1650 | Lowest Common Ancestor of a Binary Tree III |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/description/) | [Code](btree/1650/main.go)|
 |1652 | Defuse the Bomb |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/defuse-the-bomb/description/) | [Code](array/1652/main.go)|
 |1653 | Minimum Deletions to Make String Balanced |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/) | [Code](stack/1653/main.go)|
+|1654 | Minimum Jumps to Reach Home |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/minimum-jumps-to-reach-home/description/) | [Code](array/1654/main.go)|
 |1657 | Determine if Two Strings Are Close |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/determine-if-two-strings-are-close/description/) | [Code](hash_table/1657/main.go)|
 |1670 | Design Front Middle Back Queue |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/design-front-middle-back-queue/description/) | [Code](design/1670/main.go)|
 |1706 | Where Will the Ball Fall |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/where-will-the-ball-fall/description/) | [Code](dp/1706/main.go)|
