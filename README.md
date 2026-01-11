@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(564):
+### List of problems(565):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|--------|------|
@@ -238,6 +238,7 @@
 |703 | Kth Largest Element in a Stream |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | [Code](heap/703/main.go)|
 |707 | Design Linked List |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/design-linked-list/description/) | [Code](design/707/main.go)|
 |708 | Insert into a Sorted Circular Linked List |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/description/) | [Code](linked_list/708/main.go)|
+|712 | Minimum ASCII Delete Sum for Two Strings |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) | [Code](dp/712/main.go)|
 |713 | Subarray Product Less Than K |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/subarray-product-less-than-k/description/) | [Code](sliding_window/713/main.go)|
 |721 | Accounts Merge |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/accounts-merge/description/) | [Code](heap/721/main.go)|
 |725 | Split Linked List in Parts |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/split-linked-list-in-parts/description/) | [Code](linked_list/725/main.go)|
