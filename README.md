@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(565):
+### List of problems(566):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|--------|------|
@@ -50,6 +50,7 @@
 |81 | Search in Rotated Sorted Array II |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | [Code](array/81/main.go)|
 |82 | Remove Duplicates from Sorted List II |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Code](linked_list/82/main.go)|
 |84 | Largest Rectangle in Histogram |![Hard](https://img.shields.io/badge/Hard-red?style=flat-square) | [Link](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [Code](monotonic_stack/84/main.go)|
+|85 | Maximal Rectangle |![Hard](https://img.shields.io/badge/Hard-red?style=flat-square) | [Link](https://leetcode.com/problems/maximal-rectangle/description/) | [Code](monotonic_stack/85/main.go)|
 |92 | Reverse Linked List II |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [Code](linked_list/92/main.go)|
 |93 | Restore IP Addresses |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/restore-ip-addresses/description/) | [Code](backtracking/93/main.go)|
 |97 | Interleaving String |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/interleaving-string/description/) | [Code](dp/97/main.go)|
