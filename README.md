@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(570):
+### List of problems(571):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|--------|------|
@@ -453,6 +453,7 @@
 |1877 | Minimize Maximum Pair Sum in Array |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/) | [Code](greedy/1877/main.go)|
 |1880 | Check if Word Equals Summation of Two Words |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description/) | [Code](string/1880/main.go)|
 |1894 | Find the Student that Will Replace the Chalk |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/) | [Code](array/1894/main.go)|
+|1895 | Largest Magic Square |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/largest-magic-square/description/) | [Code](matrix/1895/main.go)|
 |1905 | Count Sub Islands |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/count-sub-islands/description/) | [Code](matrix/1905/main.go)|
 |1910 | Remove All Occurrences of a Substring |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/) | [Code](string/1910/main.go)|
 |1935 | Maximum Number of Words You Can Type |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/) | [Code](hash_table/1935/main.go)|
