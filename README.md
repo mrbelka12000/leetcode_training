@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(570):
+### List of problems(572):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|--------|------|
@@ -364,6 +364,7 @@
 |1289 | Minimum Falling Path Sum II |![Hard](https://img.shields.io/badge/Hard-red?style=flat-square) | [Link](https://leetcode.com/problems/minimum-falling-path-sum-ii/description/) | [Code](dp/1289/main.go)|
 |1290 | Convert Binary Number in a Linked List to Integer |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) | [Code](linked_list/1290/main.go)|
 |1291 | Sequential Digits |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/sequential-digits/description/) | [Code](string/1291/main.go)|
+|1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/) | [Code](matrix/1292/main.go)|
 |1293 | Shortest Path in a Grid with Obstacles Elimination |![Hard](https://img.shields.io/badge/Hard-red?style=flat-square) | [Link](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/) | [Code](graph/1293/main.go)|
 |1296 | Divide Array in Sets of K Consecutive Numbers |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/) | [Code](array/1296/main.go)|
 |1302 | Deepest Leaves Sum |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/deepest-leaves-sum/description/) | [Code](btree/1302/main.go)|
@@ -453,6 +454,7 @@
 |1877 | Minimize Maximum Pair Sum in Array |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/) | [Code](greedy/1877/main.go)|
 |1880 | Check if Word Equals Summation of Two Words |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description/) | [Code](string/1880/main.go)|
 |1894 | Find the Student that Will Replace the Chalk |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/) | [Code](array/1894/main.go)|
+|1895 | Largest Magic Square |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/largest-magic-square/description/) | [Code](matrix/1895/main.go)|
 |1905 | Count Sub Islands |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/count-sub-islands/description/) | [Code](matrix/1905/main.go)|
 |1910 | Remove All Occurrences of a Substring |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/) | [Code](string/1910/main.go)|
 |1935 | Maximum Number of Words You Can Type |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/) | [Code](hash_table/1935/main.go)|
