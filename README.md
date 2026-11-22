@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(573):
+### List of problems(574):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|--------|------|
@@ -194,6 +194,7 @@
 |513 | Find Bottom Left Tree Value |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | [Code](btree/513/main.go)|
 |518 | Coin Change II |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/coin-change-ii/description/) | [Code](dp/518/main.go)|
 |520 | Detect Capital |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/detect-capital/description/) | [Code](string/520/main.go)|
+|521 | Longest Uncommon Subsequence I |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | [Code](string/521/main.go)|
 |523 | Continuous Subarray Sum |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/continuous-subarray-sum/description/) | [Code](prefix_sum/523/main.go)|
 |525 | Contiguous Array |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/contiguous-array/description/) | [Code](hash_table/525/main.go)|
 |526 | Beautiful Arrangement |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/beautiful-arrangement/description/) | [Code](backtracking/526/main.go)|
