@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(576):
+### List of problems(577):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|--------|------|
@@ -216,6 +216,7 @@
 |589 | N-ary Tree Preorder Traversal |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/) | [Code](btree/589/main.go)|
 |590 | N-ary Tree Postorder Traversal |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/) | [Code](btree/590/main.go)|
 |594 | Longest Harmonious Subsequence |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/longest-harmonious-subsequence/description/) | [Code](sliding_window/594/main.go)|
+|599 | Minimum Index Sum of Two Lists |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/) | [Code](hash_table/599/main.go)|
 |606 | Construct String from Binary Tree |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/construct-string-from-binary-tree/description/) | [Code](btree/606/main.go)|
 |621 | Task Scheduler |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/task-scheduler/description/) | [Code](heap/621/main.go)|
 |622 | Design Circular Queue |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/design-circular-queue/description/) | [Code](design/622/main.go)|
