@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(577):
+### List of problems(578):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|--------|------|
@@ -257,6 +257,7 @@
 |742 | Closest Leaf in a Binary Tree |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/description/) | [Code](btree/742/main.go)|
 |743 | Network Delay Time |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/network-delay-time/description/) | [Code](graph/743/main.go)|
 |745 | Prefix and Suffix Search |![Hard](https://img.shields.io/badge/Hard-red?style=flat-square) | [Link](https://leetcode.com/problems/prefix-and-suffix-search/description/) | [Code](trie/745/main.go)|
+|747 | Largest Number At Least Twice of Others |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [Code](array/747/main.go)|
 |749 | Contain Virus |![Hard](https://img.shields.io/badge/Hard-red?style=flat-square) | [Link](https://leetcode.com/problems/contain-virus/description/) | [Code](matrix/749/main.go)|
 |759 | Employee Free Time |![Hard](https://img.shields.io/badge/Hard-red?style=flat-square) | [Link](https://leetcode.com/problems/employee-free-time/description/) | [Code](stack/759/main.go)|
 |763 | Partition Labels |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/partition-labels/description/) | [Code](greedy/763/main.go)|
