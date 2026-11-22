@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(578):
+### List of problems(579):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|--------|------|
@@ -293,6 +293,7 @@
 |875 | Koko Eating Bananas |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/koko-eating-bananas/description/) | [Code](binarysearch/875/main.go)|
 |881 | Boats to Save People |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/boats-to-save-people/description/) | [Code](greedy/881/main.go)|
 |884 | Uncommon Words from Two Sentences |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) | [Code](hash_table/884/main.go)|
+|896 | Monotonic Array |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/monotonic-array/description/) | [Code](array/896/main.go)|
 |897 | Increasing Order Search Tree |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/increasing-order-search-tree/description/) | [Code](btree/897/main.go)|
 |900 | RLE Iterator |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/rle-iterator/description/) | [Code](design/900/main.go)|
 |905 | Sort Array By Parity |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/sort-array-by-parity/description/) | [Code](array/905/main.go)|
