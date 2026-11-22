@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(569):
+### List of problems(570):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|--------|------|
@@ -125,6 +125,7 @@
 |254 | Factor Combinations |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/factor-combinations/description/) | [Code](backtracking/254/main.go)|
 |256 | Paint House |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/paint-house/description/) | [Code](dp/256/main.go)|
 |257 | Binary Tree Paths |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/binary-tree-paths/description/) | [Code](btree/257/main.go)|
+|258 | Add Digits |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/add-digits/description/) | [Code](math/258/main.go)|
 |259 | 3Sum Smaller |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/3sum-smaller/description/) | [Code](binarysearch/259/main.go)|
 |261 | Graph Valid Tree |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/graph-valid-tree/description/) | [Code](union_find/261/main.go)|
 |267 | Palindrome Permutation II |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/palindrome-permutation-ii/description/) | [Code](backtracking/267/main.go)|
