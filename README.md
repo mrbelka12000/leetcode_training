@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(572):
+### List of problems(573):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|--------|------|
@@ -170,6 +170,7 @@
 |404 | Sum of Left Leaves |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/sum-of-left-leaves/description/) | [Code](btree/404/main.go)|
 |409 | Longest Palindrome |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/longest-palindrome/description/) | [Code](greedy/409/main.go)|
 |413 | Arithmetic Slices |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/arithmetic-slices/description/) | [Code](dp/413/main.go)|
+|415 | Add Strings |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/add-strings/description/) | [Code](math/415/main.go)|
 |416 | Partition Equal Subset Sum |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Code](dp/416/main.go)|
 |422 | Valid Word Square |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/valid-word-square/description/) | [Code](matrix/422/main.go)|
 |424 | Longest Repeating Character Replacement |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Code](sliding_window/424/main.go)|
