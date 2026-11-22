@@ -8,7 +8,7 @@
 ### Statistics by months and years:
 ![plot](plot.png)
 
-### List of problems(574):
+### List of problems(575):
 
 | N | Title | Difficulty |Link | Code |
 |---|-------|------|--------|------|
@@ -207,6 +207,7 @@
 |559 | Maximum Depth of N-ary Tree |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) | [Code](btree/559/main.go)|
 |560 | Subarray Sum Equals K |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [Code](prefix_sum/560/main.go)|
 |563 | Binary Tree Tilt |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/binary-tree-tilt/description/) | [Code](btree/563/main.go)|
+|566 | Reshape the Matrix |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/reshape-the-matrix/description/) | [Code](matrix/566/main.go)|
 |572 | Subtree of Another Tree |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Code](linked_list/572/main.go)|
 |575 | Distribute Candies |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [Link](https://leetcode.com/problems/distribute-candies/description/) | [Code](hash_table/575/main.go)|
 |576 | Out of Boundary Paths |![Medium](https://img.shields.io/badge/Medium-%23f89f1b?style=flat-square) | [Link](https://leetcode.com/problems/out-of-boundary-paths/description/) | [Code](dp/576/main.go)|
